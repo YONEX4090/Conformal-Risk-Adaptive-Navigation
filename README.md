@@ -4,32 +4,33 @@ short-term safety calibration, feeding uncertainty estimates into dynamic contro
 **Supplemental material** is available at the provided [link](https://github.com/user-attachments/files/22711327/Supplementary_material_for_IV-1.pdf)
 .
 
-## Installation
-python 3.9.0
+## To do list
+# 📋 TODO List
 
-Clone the repository and install the required dependencies:
+### ✅ Released
+- [x] Core CRA-MPC implementation
+- [x] PENN and ACU modules
+- [x] Simulation environment
 
-```bash
-pip install -r requirements.txt
-```
+### 📚 Documentation (In Progress)
+- [ ] Installation guide
+- [ ] Quick start tutorial
+- [ ] Parameter configuration
+- [ ] Example usage scripts
 
-## Usage 
+### 🧪 Reproduction
+- [ ] Training instructions for PENN
+- [ ] Benchmark comparison scripts
+- [ ] Visualization tools
 
-python main.py --ctrl-type adap_cvarbf --htype dist_cone  
+## 📝 Requirements
+- Python 3.9.0
 
-## Arguments:
-
---ctrl-type: Controller type (cbf, cvarbf, adap_cvarbf)
-
---htype: h-function type (dist_cone, vel, dist)
-
---beta: Risk parameter: fixed for cvarbf controller and adaptive for adap_cvarbf controller
-
-## Overview of Adaptive CVaR Barrier Functions
-![Overview of Adaptive CVaR Barrier Functions](/config/20obs/figures/sample.gif)
-
+## Overview of CRA-MPC
+![Overview of CRA-MPC](/config/20obs/figures/conformal_cvarbf_beta0.99_hdist_cone.gif)
 
 
 ---
 
 ## Citation
+
