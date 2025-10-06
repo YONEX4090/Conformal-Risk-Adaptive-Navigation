@@ -1,0 +1,9 @@
+Using device: cuda
+Predicted Safety Loss: [[[0.018410672, 6.893258e-06], [0.01584235, 6.596425e-06], [0.021638721, 1.0359013e-05]]]
+Predicted Deadlock Time: [[[45.13777, 7.3890557], [32.502193, 7.3890557], [37.927982, 7.3890557]]]
+Traceback (most recent call last):
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/train_data.py", line 205, in <module>
+    plot_gmm(gmm_safety)
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/train_data.py", line 153, in plot_gmm
+    logprob = gmm.score_samples(x)
+AttributeError: '_SimpleGMM' object has no attribute 'score_samples'

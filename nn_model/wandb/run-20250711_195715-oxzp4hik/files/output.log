@@ -1,0 +1,76 @@
+Using device: cuda
+🧐 原始 y 分布：
+       Safety Loss  Deadlock Time
+count  7776.000000    7776.000000
+mean      0.028056       4.040040
+std       0.012125      12.608385
+min       0.010924       0.000000
+25%       0.018699       0.000000
+50%       0.024484       0.000000
+75%       0.035153       0.350000
+max       0.063732      60.000000
+🔄 归一化后 y 分布（应近似 N(0,1)）：
+        Safety Loss  Deadlock Time
+count  7.776000e+03   7.776000e+03
+mean  -5.848088e-17   1.462022e-17
+std    1.000064e+00   1.000064e+00
+min   -1.412999e+00  -3.204455e-01
+25%   -7.717686e-01  -3.204455e-01
+50%   -2.946139e-01  -3.204455e-01
+75%    5.853502e-01  -2.926844e-01
+max    2.942480e+00   4.438599e+00
+Training ==> Epoch  0  Cost: 0.618945
+Testing ==> Epoch  0 Cost: 6.023463
+test RMSE : 1.3933346995995222
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  1  Cost: -1.148976
+Testing ==> Epoch  1 Cost: 44.342670
+test RMSE : 1.204978060102237
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  2  Cost: -1.882152
+Testing ==> Epoch  2 Cost: 89.370519
+test RMSE : 1.1780251182009085
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  3  Cost: -2.282932
+Testing ==> Epoch  3 Cost: 129.281277
+test RMSE : 1.1956888925109976
+Training ==> Epoch  4  Cost: -2.482180
+Testing ==> Epoch  4 Cost: 197.070018
+test RMSE : 1.192567295824474
+Training ==> Epoch  5  Cost: -2.752605
+Testing ==> Epoch  5 Cost: 470.156625
+test RMSE : 1.2002074981077313
+Training ==> Epoch  6  Cost: -2.877844
+Testing ==> Epoch  6 Cost: 764.839095
+test RMSE : 1.2146730987401626
+Training ==> Epoch  7  Cost: -2.936578
+Testing ==> Epoch  7 Cost: 1497.639127
+test RMSE : 1.2012988355542034
+Training ==> Epoch  8  Cost: -3.283965
+Testing ==> Epoch  8 Cost: 2697.974957
+test RMSE : 1.21649843058422
+Training ==> Epoch  9  Cost: -3.348933
+Testing ==> Epoch  9 Cost: 5038.912243
+test RMSE : 1.2093628425982237
+Training ==> Epoch 10  Cost: -3.519023
+Testing ==> Epoch 10 Cost: 7146.716610
+test RMSE : 1.2090911963245525
+Training ==> Epoch 11  Cost: -3.540320
+Testing ==> Epoch 11 Cost: 6934.054795
+test RMSE : 1.2224579638247033
+Traceback (most recent call last):
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/train_data.py", line 242, in <module>
+    train_loss = penn.train(train_loader, epoch)
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/penn/nn_iccbf_predict.py", line 149, in train
+    loss.mean().backward()
+  File "/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

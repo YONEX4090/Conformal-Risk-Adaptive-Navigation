@@ -1,0 +1,182 @@
+Using device: cuda
+📊 Mean/std of each y column after StandardScaler:
+Mean: [-5.84808836e-17  1.46202209e-17]
+Std : [1. 1.]
+Training ==> Epoch  0  Cost: 0.618945
+Testing ==> Epoch  0 Cost: 6.023463
+test RMSE : 1.3933346995995222
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  1  Cost: -1.148976
+Testing ==> Epoch  1 Cost: 44.342670
+test RMSE : 1.204978060102237
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  2  Cost: -1.785459
+Testing ==> Epoch  2 Cost: 70.002809
+test RMSE : 1.181014233986919
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  3  Cost: -2.197343
+Testing ==> Epoch  3 Cost: 107.162644
+test RMSE : 1.1943663401805997
+Training ==> Epoch  4  Cost: -2.377419
+Testing ==> Epoch  4 Cost: 107.339382
+test RMSE : 1.1927333989724838
+Training ==> Epoch  5  Cost: -2.511634
+Testing ==> Epoch  5 Cost: 161.314721
+test RMSE : 1.194856132872401
+Training ==> Epoch  6  Cost: -2.621293
+Testing ==> Epoch  6 Cost: 145.743726
+test RMSE : 1.2107313384354084
+Training ==> Epoch  7  Cost: -2.690743
+Testing ==> Epoch  7 Cost: 157.284648
+test RMSE : 1.2073006329130653
+Training ==> Epoch  8  Cost: -2.853400
+Testing ==> Epoch  8 Cost: 247.569965
+test RMSE : 1.2069975242024364
+Training ==> Epoch  9  Cost: -2.915940
+Testing ==> Epoch  9 Cost: 260.623020
+test RMSE : 1.2119169460578685
+Training ==> Epoch 10  Cost: -3.133099
+Testing ==> Epoch 10 Cost: 611.617616
+test RMSE : 1.2034170993651425
+Training ==> Epoch 11  Cost: -2.836212
+Testing ==> Epoch 11 Cost: 336.548989
+test RMSE : 1.2097978853732358
+Training ==> Epoch 12  Cost: -3.049809
+Testing ==> Epoch 12 Cost: 321.492482
+test RMSE : 1.2345276472450477
+Training ==> Epoch 13  Cost: -3.010917
+Testing ==> Epoch 13 Cost: 265.676102
+test RMSE : 1.2148816023372206
+Training ==> Epoch 14  Cost: -3.353276
+Testing ==> Epoch 14 Cost: 470.177119
+test RMSE : 1.2372820024412874
+Training ==> Epoch 15  Cost: -3.351206
+Testing ==> Epoch 15 Cost: 613.555597
+test RMSE : 1.225231647211544
+Training ==> Epoch 16  Cost: -3.334278
+Testing ==> Epoch 16 Cost: 529.624144
+test RMSE : 1.2306161067723076
+Training ==> Epoch 17  Cost: -3.569476
+Testing ==> Epoch 17 Cost: 732.517498
+test RMSE : 1.2189993460902298
+Training ==> Epoch 18  Cost: -3.649984
+Testing ==> Epoch 18 Cost: 978.659140
+test RMSE : 1.2447347453971975
+Training ==> Epoch 19  Cost: -3.694499
+Testing ==> Epoch 19 Cost: 1194.227098
+test RMSE : 1.223671070893678
+Training ==> Epoch 20  Cost: -3.142937
+Testing ==> Epoch 20 Cost: 1112.290347
+test RMSE : 1.2101974511732367
+Training ==> Epoch 21  Cost: -3.702235
+Testing ==> Epoch 21 Cost: 980.862693
+test RMSE : 1.227485716024944
+Training ==> Epoch 22  Cost: -3.657252
+Testing ==> Epoch 22 Cost: 701.614458
+test RMSE : 1.2324571310668757
+Training ==> Epoch 23  Cost: -3.877765
+Testing ==> Epoch 23 Cost: 1369.307684
+test RMSE : 1.236921266256353
+Training ==> Epoch 24  Cost: -3.889274
+Testing ==> Epoch 24 Cost: 1974.716824
+test RMSE : 1.2151535023059061
+Training ==> Epoch 25  Cost: -3.964619
+Testing ==> Epoch 25 Cost: 2748.627354
+test RMSE : 1.2289385938645727
+Training ==> Epoch 26  Cost: -4.075330
+Testing ==> Epoch 26 Cost: 2915.641481
+test RMSE : 1.215464422463249
+Training ==> Epoch 27  Cost: -3.809945
+Testing ==> Epoch 27 Cost: 1287.553831
+test RMSE : 1.225707869836749
+Training ==> Epoch 28  Cost: -3.992017
+Testing ==> Epoch 28 Cost: 1620.660531
+test RMSE : 1.2283799064309149
+Training ==> Epoch 29  Cost: -4.228084
+Testing ==> Epoch 29 Cost: 2492.784247
+test RMSE : 1.2346271583442512
+Training ==> Epoch 30  Cost: -4.035370
+Testing ==> Epoch 30 Cost: 3487.007063
+test RMSE : 1.2193335853341984
+Training ==> Epoch 31  Cost: -4.347912
+Testing ==> Epoch 31 Cost: 4259.446062
+test RMSE : 1.2349665193376078
+Training ==> Epoch 32  Cost: -4.305153
+Testing ==> Epoch 32 Cost: 2853.764983
+test RMSE : 1.2258477847583222
+Training ==> Epoch 33  Cost: -4.291386
+Testing ==> Epoch 33 Cost: 4256.743579
+test RMSE : 1.2358410898030154
+Training ==> Epoch 34  Cost: -4.394138
+Testing ==> Epoch 34 Cost: 6323.193493
+test RMSE : 1.217826254685383
+Training ==> Epoch 35  Cost: -4.382570
+Testing ==> Epoch 35 Cost: 2875.632063
+test RMSE : 1.2391166653163084
+Training ==> Epoch 36  Cost: -4.598884
+Testing ==> Epoch 36 Cost: 6189.639127
+test RMSE : 1.2383916416698078
+Training ==> Epoch 37  Cost: -4.336958
+Testing ==> Epoch 37 Cost: 5766.675514
+test RMSE : 1.2305780589901558
+Training ==> Epoch 38  Cost: -4.623485
+Testing ==> Epoch 38 Cost: 6628.083048
+test RMSE : 1.2250535278740373
+Training ==> Epoch 39  Cost: -4.626421
+Testing ==> Epoch 39 Cost: 6396.206336
+test RMSE : 1.2493329920556788
+Training ==> Epoch 40  Cost: -4.693408
+Testing ==> Epoch 40 Cost: 6276.100599
+test RMSE : 1.2381820747793955
+Training ==> Epoch 41  Cost: -4.806273
+Testing ==> Epoch 41 Cost: 7220.789384
+test RMSE : 1.2429720275420009
+Training ==> Epoch 42  Cost: -4.704681
+Testing ==> Epoch 42 Cost: 6368.433647
+test RMSE : 1.2687523542521726
+Training ==> Epoch 43  Cost: -4.792624
+Testing ==> Epoch 43 Cost: 7751.359589
+test RMSE : 1.2378358698950795
+Training ==> Epoch 44  Cost: -4.932192
+Testing ==> Epoch 44 Cost: 10546.975171
+test RMSE : 1.2528068069957816
+Training ==> Epoch 45  Cost: -4.774389
+Testing ==> Epoch 45 Cost: 6524.330051
+test RMSE : 1.263311208117894
+Training ==> Epoch 46  Cost: -4.997155
+Testing ==> Epoch 46 Cost: 9446.398116
+test RMSE : 1.250139578773352
+Training ==> Epoch 47  Cost: -4.977191
+Testing ==> Epoch 47 Cost: 10190.910959
+test RMSE : 1.2702266108030356
+Training ==> Epoch 48  Cost: -5.035393
+Testing ==> Epoch 48 Cost: 9048.099315
+test RMSE : 1.272613774484697
+Training ==> Epoch 49  Cost: -5.101564
+Testing ==> Epoch 49 Cost: 11233.541096
+test RMSE : 1.270675319257223
+Training ==> Epoch 50  Cost: -5.130263
+Testing ==> Epoch 50 Cost: 10748.517979
+test RMSE : 1.282028965784259
+Training ==> Epoch 51  Cost: -5.226503
+Testing ==> Epoch 51 Cost: 15875.330479
+test RMSE : 1.2845703497220617
+Training ==> Epoch 52  Cost: -5.160648
+Testing ==> Epoch 52 Cost: 14959.827055
+test RMSE : 1.2627102884594452
+Traceback (most recent call last):
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/train_data.py", line 228, in <module>
+    train_loss = penn.train(train_loader, epoch)
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/penn/nn_iccbf_predict.py", line 139, in train
+    loss.mean().backward()
+  File "/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/torch/_tensor.py", line 522, in backward
+    torch.autograd.backward(
+  File "/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/torch/autograd/__init__.py", line 266, in backward
+    Variable._execution_engine.run_backward(  # Calls into the C++ engine to run the backward pass
+KeyboardInterrupt

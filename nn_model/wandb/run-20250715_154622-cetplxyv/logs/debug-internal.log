@@ -1,0 +1,12 @@
+{"time":"2025-07-15T15:46:22.937809301+01:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-15T15:46:23.210644576+01:00","level":"INFO","msg":"stream: created new stream","id":"cetplxyv"}
+{"time":"2025-07-15T15:46:23.210704408+01:00","level":"INFO","msg":"stream: started","id":"cetplxyv"}
+{"time":"2025-07-15T15:46:23.210722684+01:00","level":"INFO","msg":"handler: started","stream_id":"cetplxyv"}
+{"time":"2025-07-15T15:46:23.210734832+01:00","level":"INFO","msg":"sender: started","stream_id":"cetplxyv"}
+{"time":"2025-07-15T15:46:23.210770132+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"cetplxyv"}
+{"time":"2025-07-15T15:49:04.574134333+01:00","level":"INFO","msg":"stream: closing","id":"cetplxyv"}
+{"time":"2025-07-15T15:49:05.161285243+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T15:49:05.453668576+01:00","level":"INFO","msg":"handler: closed","stream_id":"cetplxyv"}
+{"time":"2025-07-15T15:49:05.453761903+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cetplxyv"}
+{"time":"2025-07-15T15:49:05.453795539+01:00","level":"INFO","msg":"sender: closed","stream_id":"cetplxyv"}
+{"time":"2025-07-15T15:49:05.4539756+01:00","level":"INFO","msg":"stream: closed","id":"cetplxyv"}

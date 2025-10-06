@@ -1,0 +1,14 @@
+Using device: cuda
+/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/sklearn/base.py:380: InconsistentVersionWarning: Trying to unpickle estimator StandardScaler from version 1.2.0 when using version 1.6.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+[Warning] y_scaler file not found: checkpoint/scaler_0921.save_y.save
+Traceback (most recent call last):
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/train_data.py", line 201, in <module>
+    penn.load_model(model_path)
+  File "/home/weishu/Desktop/online_adaptive_cbf/nn_model/penn/nn_iccbf_predict.py", line 280, in load_model
+    self.model.load_state_dict(checkpoint)
+  File "/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/torch/nn/modules/module.py", line 2153, in load_state_dict
+    raise RuntimeError('Error(s) in loading state_dict for {}:\n\t{}'.format(
+RuntimeError: Error(s) in loading state_dict for EnsembleStochasticLinear:
+	size mismatch for lin1.weights: copying a param with shape torch.Size([3, 6, 40]) from checkpoint, the shape in current model is torch.Size([3, 5, 40]).

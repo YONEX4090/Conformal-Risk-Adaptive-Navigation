@@ -1,0 +1,12 @@
+{"time":"2025-07-15T15:14:21.581525973+01:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-15T15:14:21.851500027+01:00","level":"INFO","msg":"stream: created new stream","id":"nenknjig"}
+{"time":"2025-07-15T15:14:21.851571294+01:00","level":"INFO","msg":"stream: started","id":"nenknjig"}
+{"time":"2025-07-15T15:14:21.851673965+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"nenknjig"}
+{"time":"2025-07-15T15:14:21.851751527+01:00","level":"INFO","msg":"sender: started","stream_id":"nenknjig"}
+{"time":"2025-07-15T15:14:21.851830073+01:00","level":"INFO","msg":"handler: started","stream_id":"nenknjig"}
+{"time":"2025-07-15T15:18:15.23626544+01:00","level":"INFO","msg":"stream: closing","id":"nenknjig"}
+{"time":"2025-07-15T15:18:16.163966969+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-15T15:18:17.62869903+01:00","level":"INFO","msg":"handler: closed","stream_id":"nenknjig"}
+{"time":"2025-07-15T15:18:17.628768241+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nenknjig"}
+{"time":"2025-07-15T15:18:17.628780309+01:00","level":"INFO","msg":"sender: closed","stream_id":"nenknjig"}
+{"time":"2025-07-15T15:18:17.628962113+01:00","level":"INFO","msg":"stream: closed","id":"nenknjig"}

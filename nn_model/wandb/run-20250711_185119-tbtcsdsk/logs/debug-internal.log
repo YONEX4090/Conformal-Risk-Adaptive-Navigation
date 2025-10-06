@@ -1,0 +1,12 @@
+{"time":"2025-07-11T18:51:19.454848544+01:00","level":"INFO","msg":"stream: starting","core version":"0.21.0"}
+{"time":"2025-07-11T18:51:19.794221845+01:00","level":"INFO","msg":"stream: created new stream","id":"tbtcsdsk"}
+{"time":"2025-07-11T18:51:19.794272793+01:00","level":"INFO","msg":"stream: started","id":"tbtcsdsk"}
+{"time":"2025-07-11T18:51:19.794379933+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"tbtcsdsk"}
+{"time":"2025-07-11T18:51:19.794452842+01:00","level":"INFO","msg":"handler: started","stream_id":"tbtcsdsk"}
+{"time":"2025-07-11T18:51:19.794535392+01:00","level":"INFO","msg":"sender: started","stream_id":"tbtcsdsk"}
+{"time":"2025-07-11T18:56:57.34249191+01:00","level":"INFO","msg":"stream: closing","id":"tbtcsdsk"}
+{"time":"2025-07-11T18:57:30.15566832+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-07-11T18:57:30.336394708+01:00","level":"INFO","msg":"handler: closed","stream_id":"tbtcsdsk"}
+{"time":"2025-07-11T18:57:30.33644439+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tbtcsdsk"}
+{"time":"2025-07-11T18:57:30.336464361+01:00","level":"INFO","msg":"sender: closed","stream_id":"tbtcsdsk"}
+{"time":"2025-07-11T18:57:30.336586567+01:00","level":"INFO","msg":"stream: closed","id":"tbtcsdsk"}

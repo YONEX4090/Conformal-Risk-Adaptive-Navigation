@@ -1,0 +1,62 @@
+_wandb:
+    value:
+        cli_version: 0.21.0
+        e:
+            y3f0py7dc4fk2ckvqqsec427igmjhbwi:
+                codePath: nn_model/train_data.py
+                codePathLocal: train_data.py
+                cpu_count: 20
+                cpu_count_logical: 28
+                cudaVersion: "12.4"
+                disk:
+                    /:
+                        total: "738876956672"
+                        used: "469953617920"
+                email: zjsht8939@gmail.com
+                executable: /home/weishu/anaconda3/envs/online_cbf/bin/python
+                git:
+                    commit: a9855da0a4f1a0791ab9adbf1c028947708e6b59
+                    remote: https://github.com/tkkim-robot/online_adaptive_cbf.git
+                gpu: NVIDIA GeForce RTX 4090
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ada
+                      cudaCores: 16384
+                      memoryTotal: "25757220864"
+                      name: NVIDIA GeForce RTX 4090
+                      uuid: GPU-690134fd-3bb5-17e4-fad9-21abf0746031
+                host: weishu
+                memory:
+                    total: "33448726528"
+                os: Linux-6.8.0-60-generic-x86_64-with-glibc2.35
+                program: /home/weishu/Desktop/online_adaptive_cbf/nn_model/train_data.py
+                python: CPython 3.9.23
+                root: /home/weishu/Desktop/online_adaptive_cbf/nn_model
+                startedAt: "2025-07-11T17:34:10.250330Z"
+                writerId: y3f0py7dc4fk2ckvqqsec427igmjhbwi
+        m: []
+        python_version: 3.9.23
+        t:
+            "1":
+                - 1
+                - 5
+                - 53
+                - 77
+            "2":
+                - 1
+                - 5
+                - 53
+                - 77
+            "3":
+                - 1
+                - 16
+            "4": 3.9.23
+            "5": 0.21.0
+            "12": 0.21.0
+            "13": linux-x86_64
+batch_size:
+    value: 32
+epochs:
+    value: 500
+learning_rate:
+    value: 0.0001

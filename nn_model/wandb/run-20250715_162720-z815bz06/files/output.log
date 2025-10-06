@@ -1,0 +1,1224 @@
+Using device: cuda
+/home/weishu/anaconda3/envs/online_cbf/lib/python3.9/site-packages/torch/optim/lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+Training ==> Epoch  0  Cost: -1.415460  LR: 1.00e-03
+Testing ==> Epoch  0 Cost: -2.170583
+test RMSE : 0.331722  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  1  Cost: 266.633384  LR: 1.00e-03
+Testing ==> Epoch  1 Cost: 166.918517
+test RMSE : 1.823908  Patience: 0/50
+Training ==> Epoch  2  Cost: 70.014060  LR: 1.00e-03
+Testing ==> Epoch  2 Cost: -2.055378
+test RMSE : 0.215202  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  3  Cost: 91.138392  LR: 1.00e-03
+Testing ==> Epoch  3 Cost: -1.472357
+test RMSE : 0.277499  Patience: 0/50
+Training ==> Epoch  4  Cost: 0.057326  LR: 1.00e-03
+Testing ==> Epoch  4 Cost: -2.716850
+test RMSE : 0.145101  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  5  Cost: -5.272119  LR: 1.00e-03
+Testing ==> Epoch  5 Cost: -3.373000
+test RMSE : 0.183430  Patience: 0/50
+Training ==> Epoch  6  Cost: -4.777549  LR: 1.00e-03
+Testing ==> Epoch  6 Cost: -2.368432
+test RMSE : 0.134579  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  7  Cost: -3.718509  LR: 1.00e-03
+Testing ==> Epoch  7 Cost: 19.401177
+test RMSE : 0.894572  Patience: 0/50
+Training ==> Epoch  8  Cost: -3.872990  LR: 1.00e-03
+Testing ==> Epoch  8 Cost: -2.679972
+test RMSE : 0.199933  Patience: 1/50
+Training ==> Epoch  9  Cost: -6.652706  LR: 1.00e-03
+Testing ==> Epoch  9 Cost: -3.787971
+test RMSE : 0.070008  Patience: 2/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 10  Cost: -5.548143  LR: 1.00e-03
+Testing ==> Epoch 10 Cost: -1.896197
+test RMSE : 0.108822  Patience: 0/50
+Training ==> Epoch 11  Cost: -5.908195  LR: 1.00e-03
+Testing ==> Epoch 11 Cost: -3.188512
+test RMSE : 0.134528  Patience: 1/50
+Training ==> Epoch 12  Cost: -6.325205  LR: 1.00e-03
+Testing ==> Epoch 12 Cost: -3.897490
+test RMSE : 0.090032  Patience: 2/50
+Training ==> Epoch 13  Cost: -7.052249  LR: 1.00e-03
+Testing ==> Epoch 13 Cost: -3.162849
+test RMSE : 0.084428  Patience: 3/50
+Training ==> Epoch 14  Cost: -5.467429  LR: 1.00e-03
+Testing ==> Epoch 14 Cost: -2.726276
+test RMSE : 0.302786  Patience: 4/50
+Training ==> Epoch 15  Cost: -6.565610  LR: 1.00e-03
+Testing ==> Epoch 15 Cost: -1.225743
+test RMSE : 0.063547  Patience: 5/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 16  Cost: -7.538429  LR: 1.00e-03
+Testing ==> Epoch 16 Cost: -3.804846
+test RMSE : 0.048955  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 17  Cost: -7.756336  LR: 1.00e-03
+Testing ==> Epoch 17 Cost: -3.908921
+test RMSE : 0.141796  Patience: 0/50
+Training ==> Epoch 18  Cost: -7.917456  LR: 1.00e-03
+Testing ==> Epoch 18 Cost: -4.257728
+test RMSE : 0.051363  Patience: 1/50
+Training ==> Epoch 19  Cost: -7.480700  LR: 1.00e-03
+Testing ==> Epoch 19 Cost: -4.384765
+test RMSE : 0.083129  Patience: 2/50
+Training ==> Epoch 20  Cost: -8.165184  LR: 1.00e-03
+Testing ==> Epoch 20 Cost: -3.876430
+test RMSE : 0.082798  Patience: 3/50
+Training ==> Epoch 21  Cost: -7.893548  LR: 1.00e-03
+Testing ==> Epoch 21 Cost: -4.231165
+test RMSE : 0.033343  Patience: 4/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 22  Cost: -7.302670  LR: 1.00e-03
+Testing ==> Epoch 22 Cost: -4.288130
+test RMSE : 0.064822  Patience: 0/50
+Training ==> Epoch 23  Cost: -8.124823  LR: 1.00e-03
+Testing ==> Epoch 23 Cost: -4.235816
+test RMSE : 0.076471  Patience: 1/50
+Training ==> Epoch 24  Cost: -8.356548  LR: 1.00e-03
+Testing ==> Epoch 24 Cost: -3.966372
+test RMSE : 0.038250  Patience: 2/50
+Training ==> Epoch 25  Cost: -7.920183  LR: 1.00e-03
+Testing ==> Epoch 25 Cost: -3.741139
+test RMSE : 0.085579  Patience: 3/50
+Training ==> Epoch 26  Cost: -8.281803  LR: 1.00e-03
+Testing ==> Epoch 26 Cost: -4.089029
+test RMSE : 0.051674  Patience: 4/50
+Training ==> Epoch 27  Cost: -8.573359  LR: 1.00e-03
+Testing ==> Epoch 27 Cost: -4.790674
+test RMSE : 0.028756  Patience: 5/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 28  Cost: -8.182751  LR: 1.00e-03
+Testing ==> Epoch 28 Cost: -2.920412
+test RMSE : 0.047784  Patience: 0/50
+Training ==> Epoch 29  Cost: -8.556963  LR: 1.00e-03
+Testing ==> Epoch 29 Cost: -4.623953
+test RMSE : 0.034030  Patience: 1/50
+Training ==> Epoch 30  Cost: -8.728935  LR: 1.00e-03
+Testing ==> Epoch 30 Cost: -3.826261
+test RMSE : 0.040729  Patience: 2/50
+Training ==> Epoch 31  Cost: -8.194142  LR: 1.00e-03
+Testing ==> Epoch 31 Cost: -4.512543
+test RMSE : 0.044522  Patience: 3/50
+Training ==> Epoch 32  Cost: -8.402995  LR: 1.00e-03
+Testing ==> Epoch 32 Cost: -4.355814
+test RMSE : 0.042873  Patience: 4/50
+Training ==> Epoch 33  Cost: -8.437282  LR: 1.00e-03
+Testing ==> Epoch 33 Cost: -3.812231
+test RMSE : 0.068372  Patience: 5/50
+Training ==> Epoch 34  Cost: -8.722326  LR: 1.00e-03
+Testing ==> Epoch 34 Cost: -4.663749
+test RMSE : 0.037794  Patience: 6/50
+Training ==> Epoch 35  Cost: -8.876284  LR: 1.00e-03
+Testing ==> Epoch 35 Cost: -3.366136
+test RMSE : 0.061417  Patience: 7/50
+Training ==> Epoch 36  Cost: -8.692811  LR: 1.00e-03
+Testing ==> Epoch 36 Cost: -1.817630
+test RMSE : 0.035626  Patience: 8/50
+Training ==> Epoch 37  Cost: -8.301606  LR: 1.00e-03
+Testing ==> Epoch 37 Cost: -3.922988
+test RMSE : 0.030754  Patience: 9/50
+Training ==> Epoch 38  Cost: -8.845198  LR: 1.00e-03
+Testing ==> Epoch 38 Cost: -4.304605
+test RMSE : 0.038132  Patience: 10/50
+Training ==> Epoch 39  Cost: -8.682988  LR: 1.00e-03
+Testing ==> Epoch 39 Cost: -2.922416
+test RMSE : 0.026131  Patience: 11/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 40  Cost: -8.852017  LR: 1.00e-03
+Testing ==> Epoch 40 Cost: -4.526099
+test RMSE : 0.059620  Patience: 0/50
+Training ==> Epoch 41  Cost: -9.076544  LR: 1.00e-03
+Testing ==> Epoch 41 Cost: -4.440020
+test RMSE : 0.022390  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 42  Cost: -8.849257  LR: 1.00e-03
+Testing ==> Epoch 42 Cost: -4.777677
+test RMSE : 0.033602  Patience: 0/50
+Training ==> Epoch 43  Cost: -9.200216  LR: 1.00e-03
+Testing ==> Epoch 43 Cost: -4.479552
+test RMSE : 0.082596  Patience: 1/50
+Training ==> Epoch 44  Cost: -9.160086  LR: 1.00e-03
+Testing ==> Epoch 44 Cost: -4.950584
+test RMSE : 0.021580  Patience: 2/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 45  Cost: -9.381141  LR: 1.00e-03
+Testing ==> Epoch 45 Cost: -4.936162
+test RMSE : 0.018970  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 46  Cost: -9.033764  LR: 1.00e-03
+Testing ==> Epoch 46 Cost: -3.837700
+test RMSE : 0.071171  Patience: 0/50
+Training ==> Epoch 47  Cost: -8.993313  LR: 1.00e-03
+Testing ==> Epoch 47 Cost: -4.920998
+test RMSE : 0.030682  Patience: 1/50
+Training ==> Epoch 48  Cost: -9.280575  LR: 1.00e-03
+Testing ==> Epoch 48 Cost: -4.315398
+test RMSE : 0.063643  Patience: 2/50
+Training ==> Epoch 49  Cost: -8.828042  LR: 1.00e-03
+Testing ==> Epoch 49 Cost: -4.053606
+test RMSE : 0.019284  Patience: 3/50
+Training ==> Epoch 50  Cost: -9.489582  LR: 1.00e-03
+Testing ==> Epoch 50 Cost: -4.812088
+test RMSE : 0.019544  Patience: 4/50
+Training ==> Epoch 51  Cost: -8.863495  LR: 1.00e-03
+Testing ==> Epoch 51 Cost: -5.041453
+test RMSE : 0.024322  Patience: 5/50
+Training ==> Epoch 52  Cost: -8.497376  LR: 1.00e-03
+Testing ==> Epoch 52 Cost: -5.028105
+test RMSE : 0.029851  Patience: 6/50
+Training ==> Epoch 53  Cost: -9.223662  LR: 1.00e-03
+Testing ==> Epoch 53 Cost: -5.053864
+test RMSE : 0.024271  Patience: 7/50
+Training ==> Epoch 54  Cost: -9.504054  LR: 1.00e-03
+Testing ==> Epoch 54 Cost: -4.990764
+test RMSE : 0.029837  Patience: 8/50
+Training ==> Epoch 55  Cost: -9.258726  LR: 1.00e-03
+Testing ==> Epoch 55 Cost: -3.061787
+test RMSE : 0.027341  Patience: 9/50
+Training ==> Epoch 56  Cost: -9.117550  LR: 1.00e-03
+Testing ==> Epoch 56 Cost: -4.492748
+test RMSE : 0.040637  Patience: 10/50
+Training ==> Epoch 57  Cost: -9.367193  LR: 1.00e-03
+Testing ==> Epoch 57 Cost: -4.451770
+test RMSE : 0.031277  Patience: 11/50
+Training ==> Epoch 58  Cost: -9.409656  LR: 1.00e-03
+Testing ==> Epoch 58 Cost: -4.475781
+test RMSE : 0.023460  Patience: 12/50
+Training ==> Epoch 59  Cost: -9.488131  LR: 1.00e-03
+Testing ==> Epoch 59 Cost: -4.893441
+test RMSE : 0.049141  Patience: 13/50
+Training ==> Epoch 60  Cost: -9.606445  LR: 1.00e-03
+Testing ==> Epoch 60 Cost: -4.679189
+test RMSE : 0.021743  Patience: 14/50
+Training ==> Epoch 61  Cost: -9.686157  LR: 1.00e-03
+Testing ==> Epoch 61 Cost: -3.582916
+test RMSE : 0.025772  Patience: 15/50
+Training ==> Epoch 62  Cost: -10.210098  LR: 7.00e-04
+Testing ==> Epoch 62 Cost: -5.161566
+test RMSE : 0.021397  Patience: 16/50
+Training ==> Epoch 63  Cost: -10.320566  LR: 7.00e-04
+Testing ==> Epoch 63 Cost: -2.958641
+test RMSE : 0.014203  Patience: 17/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 64  Cost: -9.987464  LR: 7.00e-04
+Testing ==> Epoch 64 Cost: -4.788276
+test RMSE : 0.030092  Patience: 0/50
+Training ==> Epoch 65  Cost: -10.221568  LR: 7.00e-04
+Testing ==> Epoch 65 Cost: -4.520888
+test RMSE : 0.018683  Patience: 1/50
+Training ==> Epoch 66  Cost: -10.147090  LR: 7.00e-04
+Testing ==> Epoch 66 Cost: -4.832076
+test RMSE : 0.012924  Patience: 2/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 67  Cost: -10.112308  LR: 7.00e-04
+Testing ==> Epoch 67 Cost: -4.680349
+test RMSE : 0.022740  Patience: 0/50
+Training ==> Epoch 68  Cost: -10.112994  LR: 7.00e-04
+Testing ==> Epoch 68 Cost: -4.218816
+test RMSE : 0.034640  Patience: 1/50
+Training ==> Epoch 69  Cost: -10.296849  LR: 7.00e-04
+Testing ==> Epoch 69 Cost: -4.759258
+test RMSE : 0.015951  Patience: 2/50
+Training ==> Epoch 70  Cost: -10.031206  LR: 7.00e-04
+Testing ==> Epoch 70 Cost: -5.409805
+test RMSE : 0.020047  Patience: 3/50
+Training ==> Epoch 71  Cost: -10.183119  LR: 7.00e-04
+Testing ==> Epoch 71 Cost: -4.617169
+test RMSE : 0.017735  Patience: 4/50
+Training ==> Epoch 72  Cost: -10.059902  LR: 7.00e-04
+Testing ==> Epoch 72 Cost: -5.209009
+test RMSE : 0.013903  Patience: 5/50
+Training ==> Epoch 73  Cost: -9.794926  LR: 7.00e-04
+Testing ==> Epoch 73 Cost: -4.999083
+test RMSE : 0.025471  Patience: 6/50
+Training ==> Epoch 74  Cost: -10.387898  LR: 7.00e-04
+Testing ==> Epoch 74 Cost: -4.948663
+test RMSE : 0.022405  Patience: 7/50
+Training ==> Epoch 75  Cost: -10.072271  LR: 7.00e-04
+Testing ==> Epoch 75 Cost: -4.568158
+test RMSE : 0.019577  Patience: 8/50
+Training ==> Epoch 76  Cost: -10.196029  LR: 7.00e-04
+Testing ==> Epoch 76 Cost: -4.761994
+test RMSE : 0.022042  Patience: 9/50
+Training ==> Epoch 77  Cost: -10.292066  LR: 7.00e-04
+Testing ==> Epoch 77 Cost: -5.175895
+test RMSE : 0.026092  Patience: 10/50
+Training ==> Epoch 78  Cost: -10.103603  LR: 7.00e-04
+Testing ==> Epoch 78 Cost: -3.943397
+test RMSE : 0.048395  Patience: 11/50
+Training ==> Epoch 79  Cost: -9.710998  LR: 7.00e-04
+Testing ==> Epoch 79 Cost: -4.743040
+test RMSE : 0.021224  Patience: 12/50
+Training ==> Epoch 80  Cost: -10.329344  LR: 7.00e-04
+Testing ==> Epoch 80 Cost: -2.729682
+test RMSE : 0.032550  Patience: 13/50
+Training ==> Epoch 81  Cost: -9.960211  LR: 7.00e-04
+Testing ==> Epoch 81 Cost: -4.468308
+test RMSE : 0.022920  Patience: 14/50
+Training ==> Epoch 82  Cost: -10.126498  LR: 7.00e-04
+Testing ==> Epoch 82 Cost: -3.180851
+test RMSE : 0.070249  Patience: 15/50
+Training ==> Epoch 83  Cost: -10.652216  LR: 4.90e-04
+Testing ==> Epoch 83 Cost: -5.159364
+test RMSE : 0.015899  Patience: 16/50
+Training ==> Epoch 84  Cost: -10.902124  LR: 4.90e-04
+Testing ==> Epoch 84 Cost: -4.953953
+test RMSE : 0.027472  Patience: 17/50
+Training ==> Epoch 85  Cost: -10.035907  LR: 4.90e-04
+Testing ==> Epoch 85 Cost: -4.854060
+test RMSE : 0.035700  Patience: 18/50
+Training ==> Epoch 86  Cost: -10.822104  LR: 4.90e-04
+Testing ==> Epoch 86 Cost: -4.076585
+test RMSE : 0.018216  Patience: 19/50
+Training ==> Epoch 87  Cost: -11.040841  LR: 4.90e-04
+Testing ==> Epoch 87 Cost: -3.564708
+test RMSE : 0.017213  Patience: 20/50
+Training ==> Epoch 88  Cost: -10.710583  LR: 4.90e-04
+Testing ==> Epoch 88 Cost: -5.479336
+test RMSE : 0.023159  Patience: 21/50
+Training ==> Epoch 89  Cost: -11.017145  LR: 4.90e-04
+Testing ==> Epoch 89 Cost: -5.093900
+test RMSE : 0.014001  Patience: 22/50
+Training ==> Epoch 90  Cost: -11.194475  LR: 4.90e-04
+Testing ==> Epoch 90 Cost: -5.566066
+test RMSE : 0.010040  Patience: 23/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 91  Cost: -10.879080  LR: 4.90e-04
+Testing ==> Epoch 91 Cost: -5.234097
+test RMSE : 0.012946  Patience: 0/50
+Training ==> Epoch 92  Cost: -10.974146  LR: 4.90e-04
+Testing ==> Epoch 92 Cost: -5.393722
+test RMSE : 0.012759  Patience: 1/50
+Training ==> Epoch 93  Cost: -10.753608  LR: 4.90e-04
+Testing ==> Epoch 93 Cost: -4.766786
+test RMSE : 0.023789  Patience: 2/50
+Training ==> Epoch 94  Cost: -10.608192  LR: 4.90e-04
+Testing ==> Epoch 94 Cost: -5.058917
+test RMSE : 0.014892  Patience: 3/50
+Training ==> Epoch 95  Cost: -11.068202  LR: 4.90e-04
+Testing ==> Epoch 95 Cost: -5.628750
+test RMSE : 0.012160  Patience: 4/50
+Training ==> Epoch 96  Cost: -10.690225  LR: 4.90e-04
+Testing ==> Epoch 96 Cost: -4.605649
+test RMSE : 0.020737  Patience: 5/50
+Training ==> Epoch 97  Cost: -10.630502  LR: 4.90e-04
+Testing ==> Epoch 97 Cost: -4.486064
+test RMSE : 0.015712  Patience: 6/50
+Training ==> Epoch 98  Cost: -10.173305  LR: 4.90e-04
+Testing ==> Epoch 98 Cost: -4.569091
+test RMSE : 0.015369  Patience: 7/50
+Training ==> Epoch 99  Cost: -10.540848  LR: 4.90e-04
+Testing ==> Epoch 99 Cost: -5.122435
+test RMSE : 0.017575  Patience: 8/50
+Training ==> Epoch 100  Cost: -10.569120  LR: 4.90e-04
+Testing ==> Epoch 100 Cost: -5.472275
+test RMSE : 0.013406  Patience: 9/50
+Training ==> Epoch 101  Cost: -11.176596  LR: 4.90e-04
+Testing ==> Epoch 101 Cost: -5.465040
+test RMSE : 0.012622  Patience: 10/50
+Training ==> Epoch 102  Cost: -10.840822  LR: 4.90e-04
+Testing ==> Epoch 102 Cost: -5.197595
+test RMSE : 0.016217  Patience: 11/50
+Training ==> Epoch 103  Cost: -10.952751  LR: 4.90e-04
+Testing ==> Epoch 103 Cost: -4.775541
+test RMSE : 0.014887  Patience: 12/50
+Training ==> Epoch 104  Cost: -10.609775  LR: 4.90e-04
+Testing ==> Epoch 104 Cost: -5.352596
+test RMSE : 0.011739  Patience: 13/50
+Training ==> Epoch 105  Cost: -10.991079  LR: 4.90e-04
+Testing ==> Epoch 105 Cost: -4.941925
+test RMSE : 0.015329  Patience: 14/50
+Training ==> Epoch 106  Cost: -10.893428  LR: 4.90e-04
+Testing ==> Epoch 106 Cost: -5.580636
+test RMSE : 0.011382  Patience: 15/50
+Training ==> Epoch 107  Cost: -11.254689  LR: 3.43e-04
+Testing ==> Epoch 107 Cost: -5.229285
+test RMSE : 0.013040  Patience: 16/50
+Training ==> Epoch 108  Cost: -11.378232  LR: 3.43e-04
+Testing ==> Epoch 108 Cost: -5.319045
+test RMSE : 0.011900  Patience: 17/50
+Training ==> Epoch 109  Cost: -11.152833  LR: 3.43e-04
+Testing ==> Epoch 109 Cost: -5.661070
+test RMSE : 0.009584  Patience: 18/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 110  Cost: -11.644041  LR: 3.43e-04
+Testing ==> Epoch 110 Cost: -5.177092
+test RMSE : 0.011027  Patience: 0/50
+Training ==> Epoch 111  Cost: -11.454457  LR: 3.43e-04
+Testing ==> Epoch 111 Cost: -5.635574
+test RMSE : 0.008759  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 112  Cost: -11.724300  LR: 3.43e-04
+Testing ==> Epoch 112 Cost: -5.331838
+test RMSE : 0.010729  Patience: 0/50
+Training ==> Epoch 113  Cost: -11.367735  LR: 3.43e-04
+Testing ==> Epoch 113 Cost: -5.328244
+test RMSE : 0.013228  Patience: 1/50
+Training ==> Epoch 114  Cost: -11.560729  LR: 3.43e-04
+Testing ==> Epoch 114 Cost: -5.734683
+test RMSE : 0.008290  Patience: 2/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 115  Cost: -11.809853  LR: 3.43e-04
+Testing ==> Epoch 115 Cost: -5.043132
+test RMSE : 0.006958  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 116  Cost: -11.557047  LR: 3.43e-04
+Testing ==> Epoch 116 Cost: -5.353754
+test RMSE : 0.009574  Patience: 0/50
+Training ==> Epoch 117  Cost: -11.455672  LR: 3.43e-04
+Testing ==> Epoch 117 Cost: -5.038116
+test RMSE : 0.011817  Patience: 1/50
+Training ==> Epoch 118  Cost: -11.442366  LR: 3.43e-04
+Testing ==> Epoch 118 Cost: -5.735614
+test RMSE : 0.008844  Patience: 2/50
+Training ==> Epoch 119  Cost: -11.623414  LR: 3.43e-04
+Testing ==> Epoch 119 Cost: -5.383484
+test RMSE : 0.012354  Patience: 3/50
+Training ==> Epoch 120  Cost: -11.577637  LR: 3.43e-04
+Testing ==> Epoch 120 Cost: -3.260923
+test RMSE : 0.013465  Patience: 4/50
+Training ==> Epoch 121  Cost: -11.337979  LR: 3.43e-04
+Testing ==> Epoch 121 Cost: -5.847223
+test RMSE : 0.009310  Patience: 5/50
+Training ==> Epoch 122  Cost: -11.571425  LR: 3.43e-04
+Testing ==> Epoch 122 Cost: -5.624426
+test RMSE : 0.008703  Patience: 6/50
+Training ==> Epoch 123  Cost: -11.591812  LR: 3.43e-04
+Testing ==> Epoch 123 Cost: -5.649887
+test RMSE : 0.010230  Patience: 7/50
+Training ==> Epoch 124  Cost: -11.658235  LR: 3.43e-04
+Testing ==> Epoch 124 Cost: -5.340772
+test RMSE : 0.012078  Patience: 8/50
+Training ==> Epoch 125  Cost: -11.529393  LR: 3.43e-04
+Testing ==> Epoch 125 Cost: -5.721995
+test RMSE : 0.008890  Patience: 9/50
+Training ==> Epoch 126  Cost: -11.693393  LR: 3.43e-04
+Testing ==> Epoch 126 Cost: -5.546152
+test RMSE : 0.008476  Patience: 10/50
+Training ==> Epoch 127  Cost: -11.439189  LR: 3.43e-04
+Testing ==> Epoch 127 Cost: -5.430425
+test RMSE : 0.010753  Patience: 11/50
+Training ==> Epoch 128  Cost: -11.451619  LR: 3.43e-04
+Testing ==> Epoch 128 Cost: -5.780776
+test RMSE : 0.010361  Patience: 12/50
+Training ==> Epoch 129  Cost: -11.570814  LR: 3.43e-04
+Testing ==> Epoch 129 Cost: -5.477205
+test RMSE : 0.009622  Patience: 13/50
+Training ==> Epoch 130  Cost: -11.569177  LR: 3.43e-04
+Testing ==> Epoch 130 Cost: -5.709597
+test RMSE : 0.011928  Patience: 14/50
+Training ==> Epoch 131  Cost: -11.658312  LR: 3.43e-04
+Testing ==> Epoch 131 Cost: -5.624539
+test RMSE : 0.008045  Patience: 15/50
+Training ==> Epoch 132  Cost: -11.881480  LR: 2.40e-04
+Testing ==> Epoch 132 Cost: -5.911147
+test RMSE : 0.008051  Patience: 16/50
+Training ==> Epoch 133  Cost: -11.981465  LR: 2.40e-04
+Testing ==> Epoch 133 Cost: -5.466298
+test RMSE : 0.007775  Patience: 17/50
+Training ==> Epoch 134  Cost: -11.822756  LR: 2.40e-04
+Testing ==> Epoch 134 Cost: -5.711746
+test RMSE : 0.008415  Patience: 18/50
+Training ==> Epoch 135  Cost: -11.921060  LR: 2.40e-04
+Testing ==> Epoch 135 Cost: -3.877097
+test RMSE : 0.013969  Patience: 19/50
+Training ==> Epoch 136  Cost: -11.903777  LR: 2.40e-04
+Testing ==> Epoch 136 Cost: -5.794481
+test RMSE : 0.007692  Patience: 20/50
+Training ==> Epoch 137  Cost: -12.018332  LR: 2.40e-04
+Testing ==> Epoch 137 Cost: -5.655239
+test RMSE : 0.006837  Patience: 21/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 138  Cost: -11.846371  LR: 2.40e-04
+Testing ==> Epoch 138 Cost: -5.859207
+test RMSE : 0.007254  Patience: 0/50
+Training ==> Epoch 139  Cost: -11.903610  LR: 2.40e-04
+Testing ==> Epoch 139 Cost: -5.637431
+test RMSE : 0.007816  Patience: 1/50
+Training ==> Epoch 140  Cost: -11.955561  LR: 2.40e-04
+Testing ==> Epoch 140 Cost: -5.505928
+test RMSE : 0.008166  Patience: 2/50
+Training ==> Epoch 141  Cost: -11.856776  LR: 2.40e-04
+Testing ==> Epoch 141 Cost: -4.297533
+test RMSE : 0.009592  Patience: 3/50
+Training ==> Epoch 142  Cost: -11.933435  LR: 2.40e-04
+Testing ==> Epoch 142 Cost: -5.219518
+test RMSE : 0.010199  Patience: 4/50
+Training ==> Epoch 143  Cost: -11.941139  LR: 2.40e-04
+Testing ==> Epoch 143 Cost: -5.633639
+test RMSE : 0.007381  Patience: 5/50
+Training ==> Epoch 144  Cost: -11.924277  LR: 2.40e-04
+Testing ==> Epoch 144 Cost: -5.721639
+test RMSE : 0.007000  Patience: 6/50
+Training ==> Epoch 145  Cost: -11.886160  LR: 2.40e-04
+Testing ==> Epoch 145 Cost: -5.781352
+test RMSE : 0.007740  Patience: 7/50
+Training ==> Epoch 146  Cost: -11.933796  LR: 2.40e-04
+Testing ==> Epoch 146 Cost: -5.707587
+test RMSE : 0.007863  Patience: 8/50
+Training ==> Epoch 147  Cost: -11.898657  LR: 2.40e-04
+Testing ==> Epoch 147 Cost: -5.795212
+test RMSE : 0.008184  Patience: 9/50
+Training ==> Epoch 148  Cost: -12.042072  LR: 2.40e-04
+Testing ==> Epoch 148 Cost: -5.694918
+test RMSE : 0.010482  Patience: 10/50
+Training ==> Epoch 149  Cost: -11.892218  LR: 2.40e-04
+Testing ==> Epoch 149 Cost: -5.079725
+test RMSE : 0.011108  Patience: 11/50
+Training ==> Epoch 150  Cost: -11.390692  LR: 2.40e-04
+Testing ==> Epoch 150 Cost: -5.338608
+test RMSE : 0.010575  Patience: 12/50
+Training ==> Epoch 151  Cost: -11.932053  LR: 2.40e-04
+Testing ==> Epoch 151 Cost: -5.398339
+test RMSE : 0.008885  Patience: 13/50
+Training ==> Epoch 152  Cost: -11.920026  LR: 2.40e-04
+Testing ==> Epoch 152 Cost: -5.546831
+test RMSE : 0.010581  Patience: 14/50
+Training ==> Epoch 153  Cost: -11.924536  LR: 2.40e-04
+Testing ==> Epoch 153 Cost: -5.390283
+test RMSE : 0.010466  Patience: 15/50
+Training ==> Epoch 154  Cost: -12.162749  LR: 1.68e-04
+Testing ==> Epoch 154 Cost: -5.057786
+test RMSE : 0.009133  Patience: 16/50
+Training ==> Epoch 155  Cost: -12.125271  LR: 1.68e-04
+Testing ==> Epoch 155 Cost: -5.329605
+test RMSE : 0.007502  Patience: 17/50
+Training ==> Epoch 156  Cost: -12.124993  LR: 1.68e-04
+Testing ==> Epoch 156 Cost: -5.344267
+test RMSE : 0.007763  Patience: 18/50
+Training ==> Epoch 157  Cost: -12.092773  LR: 1.68e-04
+Testing ==> Epoch 157 Cost: -5.726449
+test RMSE : 0.007257  Patience: 19/50
+Training ==> Epoch 158  Cost: -12.237049  LR: 1.68e-04
+Testing ==> Epoch 158 Cost: -5.224730
+test RMSE : 0.008332  Patience: 20/50
+Training ==> Epoch 159  Cost: -12.130071  LR: 1.68e-04
+Testing ==> Epoch 159 Cost: -4.964574
+test RMSE : 0.007853  Patience: 21/50
+Training ==> Epoch 160  Cost: -12.222189  LR: 1.68e-04
+Testing ==> Epoch 160 Cost: -5.367801
+test RMSE : 0.007721  Patience: 22/50
+Training ==> Epoch 161  Cost: -12.195307  LR: 1.68e-04
+Testing ==> Epoch 161 Cost: -5.828901
+test RMSE : 0.005956  Patience: 23/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 162  Cost: -12.260752  LR: 1.68e-04
+Testing ==> Epoch 162 Cost: -5.244853
+test RMSE : 0.006642  Patience: 0/50
+Training ==> Epoch 163  Cost: -12.168713  LR: 1.68e-04
+Testing ==> Epoch 163 Cost: -5.695622
+test RMSE : 0.007134  Patience: 1/50
+Training ==> Epoch 164  Cost: -12.222702  LR: 1.68e-04
+Testing ==> Epoch 164 Cost: -3.660013
+test RMSE : 0.012207  Patience: 2/50
+Training ==> Epoch 165  Cost: -12.133091  LR: 1.68e-04
+Testing ==> Epoch 165 Cost: -5.595160
+test RMSE : 0.007677  Patience: 3/50
+Training ==> Epoch 166  Cost: -12.240047  LR: 1.68e-04
+Testing ==> Epoch 166 Cost: -5.121322
+test RMSE : 0.008244  Patience: 4/50
+Training ==> Epoch 167  Cost: -12.149638  LR: 1.68e-04
+Testing ==> Epoch 167 Cost: -5.625405
+test RMSE : 0.007122  Patience: 5/50
+Training ==> Epoch 168  Cost: -12.219641  LR: 1.68e-04
+Testing ==> Epoch 168 Cost: -5.335690
+test RMSE : 0.008432  Patience: 6/50
+Training ==> Epoch 169  Cost: -12.230407  LR: 1.68e-04
+Testing ==> Epoch 169 Cost: -5.360836
+test RMSE : 0.007841  Patience: 7/50
+Training ==> Epoch 170  Cost: -12.199246  LR: 1.68e-04
+Testing ==> Epoch 170 Cost: -5.232633
+test RMSE : 0.007289  Patience: 8/50
+Training ==> Epoch 171  Cost: -12.185558  LR: 1.68e-04
+Testing ==> Epoch 171 Cost: -5.600286
+test RMSE : 0.006371  Patience: 9/50
+Training ==> Epoch 172  Cost: -12.219856  LR: 1.68e-04
+Testing ==> Epoch 172 Cost: -5.277256
+test RMSE : 0.006661  Patience: 10/50
+Training ==> Epoch 173  Cost: -12.263950  LR: 1.68e-04
+Testing ==> Epoch 173 Cost: -5.314055
+test RMSE : 0.006961  Patience: 11/50
+Training ==> Epoch 174  Cost: -12.246809  LR: 1.68e-04
+Testing ==> Epoch 174 Cost: -5.900184
+test RMSE : 0.006093  Patience: 12/50
+Training ==> Epoch 175  Cost: -12.238001  LR: 1.68e-04
+Testing ==> Epoch 175 Cost: -5.671031
+test RMSE : 0.006683  Patience: 13/50
+Training ==> Epoch 176  Cost: -12.134806  LR: 1.68e-04
+Testing ==> Epoch 176 Cost: -5.601471
+test RMSE : 0.006473  Patience: 14/50
+Training ==> Epoch 177  Cost: -12.152100  LR: 1.68e-04
+Testing ==> Epoch 177 Cost: -5.828371
+test RMSE : 0.006677  Patience: 15/50
+Training ==> Epoch 178  Cost: -12.335385  LR: 1.18e-04
+Testing ==> Epoch 178 Cost: -5.503084
+test RMSE : 0.006503  Patience: 16/50
+Training ==> Epoch 179  Cost: -12.338516  LR: 1.18e-04
+Testing ==> Epoch 179 Cost: -5.637634
+test RMSE : 0.006170  Patience: 17/50
+Training ==> Epoch 180  Cost: -12.369607  LR: 1.18e-04
+Testing ==> Epoch 180 Cost: -5.425155
+test RMSE : 0.006114  Patience: 18/50
+Training ==> Epoch 181  Cost: -12.339301  LR: 1.18e-04
+Testing ==> Epoch 181 Cost: -5.598628
+test RMSE : 0.006265  Patience: 19/50
+Training ==> Epoch 182  Cost: -12.404387  LR: 1.18e-04
+Testing ==> Epoch 182 Cost: -5.694046
+test RMSE : 0.005779  Patience: 20/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 183  Cost: -12.365617  LR: 1.18e-04
+Testing ==> Epoch 183 Cost: -5.670365
+test RMSE : 0.005782  Patience: 0/50
+Training ==> Epoch 184  Cost: -12.405381  LR: 1.18e-04
+Testing ==> Epoch 184 Cost: -5.404654
+test RMSE : 0.006940  Patience: 1/50
+Training ==> Epoch 185  Cost: -12.376466  LR: 1.18e-04
+Testing ==> Epoch 185 Cost: -5.369834
+test RMSE : 0.006437  Patience: 2/50
+Training ==> Epoch 186  Cost: -12.328743  LR: 1.18e-04
+Testing ==> Epoch 186 Cost: -5.756811
+test RMSE : 0.005925  Patience: 3/50
+Training ==> Epoch 187  Cost: -12.377097  LR: 1.18e-04
+Testing ==> Epoch 187 Cost: -5.423577
+test RMSE : 0.006278  Patience: 4/50
+Training ==> Epoch 188  Cost: -12.365480  LR: 1.18e-04
+Testing ==> Epoch 188 Cost: -5.699115
+test RMSE : 0.005629  Patience: 5/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 189  Cost: -12.405029  LR: 1.18e-04
+Testing ==> Epoch 189 Cost: -5.605516
+test RMSE : 0.006177  Patience: 0/50
+Training ==> Epoch 190  Cost: -12.372179  LR: 1.18e-04
+Testing ==> Epoch 190 Cost: -5.384758
+test RMSE : 0.005894  Patience: 1/50
+Training ==> Epoch 191  Cost: -12.359051  LR: 1.18e-04
+Testing ==> Epoch 191 Cost: -5.350323
+test RMSE : 0.006527  Patience: 2/50
+Training ==> Epoch 192  Cost: -12.410081  LR: 1.18e-04
+Testing ==> Epoch 192 Cost: -5.330398
+test RMSE : 0.005425  Patience: 3/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 193  Cost: -12.397965  LR: 1.18e-04
+Testing ==> Epoch 193 Cost: -5.701285
+test RMSE : 0.005393  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 194  Cost: -12.346825  LR: 1.18e-04
+Testing ==> Epoch 194 Cost: -5.715417
+test RMSE : 0.005773  Patience: 0/50
+Training ==> Epoch 195  Cost: -12.362433  LR: 1.18e-04
+Testing ==> Epoch 195 Cost: -5.193865
+test RMSE : 0.006952  Patience: 1/50
+Training ==> Epoch 196  Cost: -12.377844  LR: 1.18e-04
+Testing ==> Epoch 196 Cost: -5.323639
+test RMSE : 0.006681  Patience: 2/50
+Training ==> Epoch 197  Cost: -12.385742  LR: 1.18e-04
+Testing ==> Epoch 197 Cost: -5.375754
+test RMSE : 0.006688  Patience: 3/50
+Training ==> Epoch 198  Cost: -12.422250  LR: 1.18e-04
+Testing ==> Epoch 198 Cost: -5.595397
+test RMSE : 0.006032  Patience: 4/50
+Training ==> Epoch 199  Cost: -12.344932  LR: 1.18e-04
+Testing ==> Epoch 199 Cost: -5.362275
+test RMSE : 0.006456  Patience: 5/50
+Training ==> Epoch 200  Cost: -12.392240  LR: 1.18e-04
+Testing ==> Epoch 200 Cost: -4.448286
+test RMSE : 0.007139  Patience: 6/50
+Training ==> Epoch 201  Cost: -12.313192  LR: 1.18e-04
+Testing ==> Epoch 201 Cost: -5.381039
+test RMSE : 0.006356  Patience: 7/50
+Training ==> Epoch 202  Cost: -12.414434  LR: 1.18e-04
+Testing ==> Epoch 202 Cost: -5.131232
+test RMSE : 0.006903  Patience: 8/50
+Training ==> Epoch 203  Cost: -12.364716  LR: 1.18e-04
+Testing ==> Epoch 203 Cost: -5.287746
+test RMSE : 0.007068  Patience: 9/50
+Training ==> Epoch 204  Cost: -12.421288  LR: 1.18e-04
+Testing ==> Epoch 204 Cost: -5.117538
+test RMSE : 0.007216  Patience: 10/50
+Training ==> Epoch 205  Cost: -12.311853  LR: 1.18e-04
+Testing ==> Epoch 205 Cost: -5.628562
+test RMSE : 0.006315  Patience: 11/50
+Training ==> Epoch 206  Cost: -12.387997  LR: 1.18e-04
+Testing ==> Epoch 206 Cost: -5.363693
+test RMSE : 0.006786  Patience: 12/50
+Training ==> Epoch 207  Cost: -12.421597  LR: 1.18e-04
+Testing ==> Epoch 207 Cost: -5.630684
+test RMSE : 0.005682  Patience: 13/50
+Training ==> Epoch 208  Cost: -12.432249  LR: 1.18e-04
+Testing ==> Epoch 208 Cost: -5.443302
+test RMSE : 0.005998  Patience: 14/50
+Training ==> Epoch 209  Cost: -12.307125  LR: 1.18e-04
+Testing ==> Epoch 209 Cost: -5.136429
+test RMSE : 0.006660  Patience: 15/50
+Training ==> Epoch 210  Cost: -12.454738  LR: 8.24e-05
+Testing ==> Epoch 210 Cost: -5.636098
+test RMSE : 0.005492  Patience: 16/50
+Training ==> Epoch 211  Cost: -12.485636  LR: 8.24e-05
+Testing ==> Epoch 211 Cost: -5.337037
+test RMSE : 0.005918  Patience: 17/50
+Training ==> Epoch 212  Cost: -12.511684  LR: 8.24e-05
+Testing ==> Epoch 212 Cost: -5.206446
+test RMSE : 0.005833  Patience: 18/50
+Training ==> Epoch 213  Cost: -12.441742  LR: 8.24e-05
+Testing ==> Epoch 213 Cost: -5.526368
+test RMSE : 0.005710  Patience: 19/50
+Training ==> Epoch 214  Cost: -12.512398  LR: 8.24e-05
+Testing ==> Epoch 214 Cost: -5.504101
+test RMSE : 0.005563  Patience: 20/50
+Training ==> Epoch 215  Cost: -12.496769  LR: 8.24e-05
+Testing ==> Epoch 215 Cost: -5.357016
+test RMSE : 0.005932  Patience: 21/50
+Training ==> Epoch 216  Cost: -12.500541  LR: 8.24e-05
+Testing ==> Epoch 216 Cost: -5.492310
+test RMSE : 0.005400  Patience: 22/50
+Training ==> Epoch 217  Cost: -12.499620  LR: 8.24e-05
+Testing ==> Epoch 217 Cost: -5.365314
+test RMSE : 0.005588  Patience: 23/50
+Training ==> Epoch 218  Cost: -12.511996  LR: 8.24e-05
+Testing ==> Epoch 218 Cost: -5.414708
+test RMSE : 0.005505  Patience: 24/50
+Training ==> Epoch 219  Cost: -12.502276  LR: 8.24e-05
+Testing ==> Epoch 219 Cost: -5.427495
+test RMSE : 0.005543  Patience: 25/50
+Training ==> Epoch 220  Cost: -12.463866  LR: 8.24e-05
+Testing ==> Epoch 220 Cost: -5.434658
+test RMSE : 0.005735  Patience: 26/50
+Training ==> Epoch 221  Cost: -12.505340  LR: 8.24e-05
+Testing ==> Epoch 221 Cost: -5.552617
+test RMSE : 0.005435  Patience: 27/50
+Training ==> Epoch 222  Cost: -12.520117  LR: 8.24e-05
+Testing ==> Epoch 222 Cost: -5.298420
+test RMSE : 0.005696  Patience: 28/50
+Training ==> Epoch 223  Cost: -12.471121  LR: 8.24e-05
+Testing ==> Epoch 223 Cost: -5.648842
+test RMSE : 0.005206  Patience: 29/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 224  Cost: -12.489226  LR: 8.24e-05
+Testing ==> Epoch 224 Cost: -5.467454
+test RMSE : 0.005761  Patience: 0/50
+Training ==> Epoch 225  Cost: -12.486321  LR: 8.24e-05
+Testing ==> Epoch 225 Cost: -5.544863
+test RMSE : 0.005437  Patience: 1/50
+Training ==> Epoch 226  Cost: -12.498425  LR: 8.24e-05
+Testing ==> Epoch 226 Cost: -5.544478
+test RMSE : 0.005315  Patience: 2/50
+Training ==> Epoch 227  Cost: -12.497858  LR: 8.24e-05
+Testing ==> Epoch 227 Cost: -5.559125
+test RMSE : 0.005393  Patience: 3/50
+Training ==> Epoch 228  Cost: -12.497921  LR: 8.24e-05
+Testing ==> Epoch 228 Cost: -5.271117
+test RMSE : 0.005367  Patience: 4/50
+Training ==> Epoch 229  Cost: -12.504807  LR: 8.24e-05
+Testing ==> Epoch 229 Cost: -5.251247
+test RMSE : 0.005375  Patience: 5/50
+Training ==> Epoch 230  Cost: -12.507460  LR: 8.24e-05
+Testing ==> Epoch 230 Cost: -5.197619
+test RMSE : 0.005801  Patience: 6/50
+Training ==> Epoch 231  Cost: -12.508769  LR: 8.24e-05
+Testing ==> Epoch 231 Cost: -4.546601
+test RMSE : 0.005685  Patience: 7/50
+Training ==> Epoch 232  Cost: -12.495678  LR: 8.24e-05
+Testing ==> Epoch 232 Cost: -5.506233
+test RMSE : 0.005360  Patience: 8/50
+Training ==> Epoch 233  Cost: -12.492970  LR: 8.24e-05
+Testing ==> Epoch 233 Cost: -5.404584
+test RMSE : 0.005375  Patience: 9/50
+Training ==> Epoch 234  Cost: -12.523796  LR: 8.24e-05
+Testing ==> Epoch 234 Cost: -5.529009
+test RMSE : 0.005389  Patience: 10/50
+Training ==> Epoch 235  Cost: -12.524147  LR: 8.24e-05
+Testing ==> Epoch 235 Cost: -5.538703
+test RMSE : 0.005243  Patience: 11/50
+Training ==> Epoch 236  Cost: -12.500830  LR: 8.24e-05
+Testing ==> Epoch 236 Cost: -5.362714
+test RMSE : 0.005922  Patience: 12/50
+Training ==> Epoch 237  Cost: -12.526272  LR: 8.24e-05
+Testing ==> Epoch 237 Cost: -5.106293
+test RMSE : 0.006260  Patience: 13/50
+Training ==> Epoch 238  Cost: -12.509197  LR: 8.24e-05
+Testing ==> Epoch 238 Cost: -5.353896
+test RMSE : 0.005628  Patience: 14/50
+Training ==> Epoch 239  Cost: -12.482776  LR: 8.24e-05
+Testing ==> Epoch 239 Cost: -5.511748
+test RMSE : 0.005344  Patience: 15/50
+Training ==> Epoch 240  Cost: -12.554629  LR: 5.76e-05
+Testing ==> Epoch 240 Cost: -5.199669
+test RMSE : 0.005916  Patience: 16/50
+Training ==> Epoch 241  Cost: -12.568922  LR: 5.76e-05
+Testing ==> Epoch 241 Cost: -5.327345
+test RMSE : 0.005128  Patience: 17/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 242  Cost: -12.562186  LR: 5.76e-05
+Testing ==> Epoch 242 Cost: -5.030677
+test RMSE : 0.005485  Patience: 0/50
+Training ==> Epoch 243  Cost: -12.555881  LR: 5.76e-05
+Testing ==> Epoch 243 Cost: -5.162183
+test RMSE : 0.005809  Patience: 1/50
+Training ==> Epoch 244  Cost: -12.562170  LR: 5.76e-05
+Testing ==> Epoch 244 Cost: -4.733869
+test RMSE : 0.005513  Patience: 2/50
+Training ==> Epoch 245  Cost: -12.562002  LR: 5.76e-05
+Testing ==> Epoch 245 Cost: -5.351734
+test RMSE : 0.005187  Patience: 3/50
+Training ==> Epoch 246  Cost: -12.551524  LR: 5.76e-05
+Testing ==> Epoch 246 Cost: -4.937653
+test RMSE : 0.005103  Patience: 4/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 247  Cost: -12.580317  LR: 5.76e-05
+Testing ==> Epoch 247 Cost: -5.376829
+test RMSE : 0.005220  Patience: 0/50
+Training ==> Epoch 248  Cost: -12.566983  LR: 5.76e-05
+Testing ==> Epoch 248 Cost: -5.492287
+test RMSE : 0.005190  Patience: 1/50
+Training ==> Epoch 249  Cost: -12.571556  LR: 5.76e-05
+Testing ==> Epoch 249 Cost: -5.354934
+test RMSE : 0.005344  Patience: 2/50
+Training ==> Epoch 250  Cost: -12.588263  LR: 5.76e-05
+Testing ==> Epoch 250 Cost: -5.259226
+test RMSE : 0.005480  Patience: 3/50
+Training ==> Epoch 251  Cost: -12.570230  LR: 5.76e-05
+Testing ==> Epoch 251 Cost: -5.188387
+test RMSE : 0.005350  Patience: 4/50
+Training ==> Epoch 252  Cost: -12.557554  LR: 5.76e-05
+Testing ==> Epoch 252 Cost: -5.389854
+test RMSE : 0.005373  Patience: 5/50
+Training ==> Epoch 253  Cost: -12.579893  LR: 5.76e-05
+Testing ==> Epoch 253 Cost: -5.413430
+test RMSE : 0.005256  Patience: 6/50
+Training ==> Epoch 254  Cost: -12.590772  LR: 5.76e-05
+Testing ==> Epoch 254 Cost: -5.430636
+test RMSE : 0.005108  Patience: 7/50
+Training ==> Epoch 255  Cost: -12.580349  LR: 5.76e-05
+Testing ==> Epoch 255 Cost: -5.244345
+test RMSE : 0.005126  Patience: 8/50
+Training ==> Epoch 256  Cost: -12.576703  LR: 5.76e-05
+Testing ==> Epoch 256 Cost: -5.390496
+test RMSE : 0.005102  Patience: 9/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 257  Cost: -12.574948  LR: 5.76e-05
+Testing ==> Epoch 257 Cost: -5.199204
+test RMSE : 0.005170  Patience: 0/50
+Training ==> Epoch 258  Cost: -12.598654  LR: 5.76e-05
+Testing ==> Epoch 258 Cost: -5.254478
+test RMSE : 0.005101  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 259  Cost: -12.565497  LR: 5.76e-05
+Testing ==> Epoch 259 Cost: -5.124750
+test RMSE : 0.005324  Patience: 0/50
+Training ==> Epoch 260  Cost: -12.592561  LR: 5.76e-05
+Testing ==> Epoch 260 Cost: -5.110959
+test RMSE : 0.005524  Patience: 1/50
+Training ==> Epoch 261  Cost: -12.552479  LR: 5.76e-05
+Testing ==> Epoch 261 Cost: -5.146905
+test RMSE : 0.005256  Patience: 2/50
+Training ==> Epoch 262  Cost: -12.570574  LR: 5.76e-05
+Testing ==> Epoch 262 Cost: -5.101956
+test RMSE : 0.005119  Patience: 3/50
+Training ==> Epoch 263  Cost: -12.552654  LR: 5.76e-05
+Testing ==> Epoch 263 Cost: -5.189497
+test RMSE : 0.005085  Patience: 4/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 264  Cost: -12.573930  LR: 5.76e-05
+Testing ==> Epoch 264 Cost: -5.197447
+test RMSE : 0.005279  Patience: 0/50
+Training ==> Epoch 265  Cost: -12.579166  LR: 5.76e-05
+Testing ==> Epoch 265 Cost: -5.149969
+test RMSE : 0.005479  Patience: 1/50
+Training ==> Epoch 266  Cost: -12.581286  LR: 5.76e-05
+Testing ==> Epoch 266 Cost: -5.257403
+test RMSE : 0.005334  Patience: 2/50
+Training ==> Epoch 267  Cost: -12.574206  LR: 5.76e-05
+Testing ==> Epoch 267 Cost: -5.288719
+test RMSE : 0.005062  Patience: 3/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 268  Cost: -12.568209  LR: 5.76e-05
+Testing ==> Epoch 268 Cost: -4.968930
+test RMSE : 0.005328  Patience: 0/50
+Training ==> Epoch 269  Cost: -12.600266  LR: 5.76e-05
+Testing ==> Epoch 269 Cost: -4.965711
+test RMSE : 0.005476  Patience: 1/50
+Training ==> Epoch 270  Cost: -12.573977  LR: 5.76e-05
+Testing ==> Epoch 270 Cost: -4.448011
+test RMSE : 0.006461  Patience: 2/50
+Training ==> Epoch 271  Cost: -12.595707  LR: 5.76e-05
+Testing ==> Epoch 271 Cost: -5.168230
+test RMSE : 0.005398  Patience: 3/50
+Training ==> Epoch 272  Cost: -12.592027  LR: 5.76e-05
+Testing ==> Epoch 272 Cost: -5.120802
+test RMSE : 0.005518  Patience: 4/50
+Training ==> Epoch 273  Cost: -12.584951  LR: 5.76e-05
+Testing ==> Epoch 273 Cost: -5.030579
+test RMSE : 0.005748  Patience: 5/50
+Training ==> Epoch 274  Cost: -12.570758  LR: 5.76e-05
+Testing ==> Epoch 274 Cost: -5.477964
+test RMSE : 0.005160  Patience: 6/50
+Training ==> Epoch 275  Cost: -12.575819  LR: 5.76e-05
+Testing ==> Epoch 275 Cost: -5.353996
+test RMSE : 0.005181  Patience: 7/50
+Training ==> Epoch 276  Cost: -12.576495  LR: 5.76e-05
+Testing ==> Epoch 276 Cost: -5.316164
+test RMSE : 0.005040  Patience: 8/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 277  Cost: -12.602065  LR: 5.76e-05
+Testing ==> Epoch 277 Cost: -5.429465
+test RMSE : 0.004965  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 278  Cost: -12.592635  LR: 5.76e-05
+Testing ==> Epoch 278 Cost: -5.492947
+test RMSE : 0.004800  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 279  Cost: -12.595876  LR: 5.76e-05
+Testing ==> Epoch 279 Cost: -5.376983
+test RMSE : 0.004728  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 280  Cost: -12.592588  LR: 5.76e-05
+Testing ==> Epoch 280 Cost: -5.284746
+test RMSE : 0.004727  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 281  Cost: -12.582350  LR: 5.76e-05
+Testing ==> Epoch 281 Cost: -5.124181
+test RMSE : 0.005396  Patience: 0/50
+Training ==> Epoch 282  Cost: -12.598342  LR: 5.76e-05
+Testing ==> Epoch 282 Cost: -5.482740
+test RMSE : 0.004703  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 283  Cost: -12.580201  LR: 5.76e-05
+Testing ==> Epoch 283 Cost: -5.155665
+test RMSE : 0.005536  Patience: 0/50
+Training ==> Epoch 284  Cost: -12.599357  LR: 5.76e-05
+Testing ==> Epoch 284 Cost: -5.310931
+test RMSE : 0.005038  Patience: 1/50
+Training ==> Epoch 285  Cost: -12.602906  LR: 5.76e-05
+Testing ==> Epoch 285 Cost: -5.373184
+test RMSE : 0.004989  Patience: 2/50
+Training ==> Epoch 286  Cost: -12.613027  LR: 5.76e-05
+Testing ==> Epoch 286 Cost: -5.247916
+test RMSE : 0.005032  Patience: 3/50
+Training ==> Epoch 287  Cost: -12.591473  LR: 5.76e-05
+Testing ==> Epoch 287 Cost: -5.244399
+test RMSE : 0.004805  Patience: 4/50
+Training ==> Epoch 288  Cost: -12.586257  LR: 5.76e-05
+Testing ==> Epoch 288 Cost: -5.376510
+test RMSE : 0.004954  Patience: 5/50
+Training ==> Epoch 289  Cost: -12.595894  LR: 5.76e-05
+Testing ==> Epoch 289 Cost: -5.640188
+test RMSE : 0.004892  Patience: 6/50
+Training ==> Epoch 290  Cost: -12.587100  LR: 5.76e-05
+Testing ==> Epoch 290 Cost: -5.590518
+test RMSE : 0.004648  Patience: 7/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 291  Cost: -12.597812  LR: 5.76e-05
+Testing ==> Epoch 291 Cost: -5.530389
+test RMSE : 0.004642  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 292  Cost: -12.593199  LR: 5.76e-05
+Testing ==> Epoch 292 Cost: -5.547279
+test RMSE : 0.004786  Patience: 0/50
+Training ==> Epoch 293  Cost: -12.602680  LR: 5.76e-05
+Testing ==> Epoch 293 Cost: -5.551416
+test RMSE : 0.004622  Patience: 1/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 294  Cost: -12.593396  LR: 5.76e-05
+Testing ==> Epoch 294 Cost: -5.430199
+test RMSE : 0.004801  Patience: 0/50
+Training ==> Epoch 295  Cost: -12.608718  LR: 5.76e-05
+Testing ==> Epoch 295 Cost: -5.409868
+test RMSE : 0.004933  Patience: 1/50
+Training ==> Epoch 296  Cost: -12.590268  LR: 5.76e-05
+Testing ==> Epoch 296 Cost: -5.377667
+test RMSE : 0.004836  Patience: 2/50
+Training ==> Epoch 297  Cost: -12.592655  LR: 5.76e-05
+Testing ==> Epoch 297 Cost: -5.188828
+test RMSE : 0.005164  Patience: 3/50
+Training ==> Epoch 298  Cost: -12.590933  LR: 5.76e-05
+Testing ==> Epoch 298 Cost: -4.808173
+test RMSE : 0.005506  Patience: 4/50
+Training ==> Epoch 299  Cost: -12.582253  LR: 5.76e-05
+Testing ==> Epoch 299 Cost: -5.232321
+test RMSE : 0.005036  Patience: 5/50
+Training ==> Epoch 300  Cost: -12.589537  LR: 5.76e-05
+Testing ==> Epoch 300 Cost: -5.268073
+test RMSE : 0.005207  Patience: 6/50
+Training ==> Epoch 301  Cost: -12.609074  LR: 5.76e-05
+Testing ==> Epoch 301 Cost: -5.222577
+test RMSE : 0.004905  Patience: 7/50
+Training ==> Epoch 302  Cost: -12.600667  LR: 5.76e-05
+Testing ==> Epoch 302 Cost: -5.140401
+test RMSE : 0.005405  Patience: 8/50
+Training ==> Epoch 303  Cost: -12.584874  LR: 5.76e-05
+Testing ==> Epoch 303 Cost: -5.348701
+test RMSE : 0.005321  Patience: 9/50
+Training ==> Epoch 304  Cost: -12.608326  LR: 5.76e-05
+Testing ==> Epoch 304 Cost: -5.483670
+test RMSE : 0.004718  Patience: 10/50
+Training ==> Epoch 305  Cost: -12.601261  LR: 5.76e-05
+Testing ==> Epoch 305 Cost: -5.463016
+test RMSE : 0.004926  Patience: 11/50
+Training ==> Epoch 306  Cost: -12.605953  LR: 5.76e-05
+Testing ==> Epoch 306 Cost: -5.510980
+test RMSE : 0.004824  Patience: 12/50
+Training ==> Epoch 307  Cost: -12.599989  LR: 5.76e-05
+Testing ==> Epoch 307 Cost: -5.219935
+test RMSE : 0.005114  Patience: 13/50
+Training ==> Epoch 308  Cost: -12.582550  LR: 5.76e-05
+Testing ==> Epoch 308 Cost: -5.428467
+test RMSE : 0.004628  Patience: 14/50
+Training ==> Epoch 309  Cost: -12.604248  LR: 5.76e-05
+Testing ==> Epoch 309 Cost: -5.382809
+test RMSE : 0.004736  Patience: 15/50
+Training ==> Epoch 310  Cost: -12.635435  LR: 4.04e-05
+Testing ==> Epoch 310 Cost: -5.495511
+test RMSE : 0.004585  Patience: 16/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 311  Cost: -12.641643  LR: 4.04e-05
+Testing ==> Epoch 311 Cost: -5.443716
+test RMSE : 0.004404  Patience: 0/50
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 312  Cost: -12.637964  LR: 4.04e-05
+Testing ==> Epoch 312 Cost: -5.318312
+test RMSE : 0.004589  Patience: 0/50
+Training ==> Epoch 313  Cost: -12.640247  LR: 4.04e-05
+Testing ==> Epoch 313 Cost: -5.232119
+test RMSE : 0.004738  Patience: 1/50
+Training ==> Epoch 314  Cost: -12.646173  LR: 4.04e-05
+Testing ==> Epoch 314 Cost: -5.212168
+test RMSE : 0.004727  Patience: 2/50
+Training ==> Epoch 315  Cost: -12.650001  LR: 4.04e-05
+Testing ==> Epoch 315 Cost: -5.263521
+test RMSE : 0.004576  Patience: 3/50
+Training ==> Epoch 316  Cost: -12.634433  LR: 4.04e-05
+Testing ==> Epoch 316 Cost: -5.211891
+test RMSE : 0.004619  Patience: 4/50
+Training ==> Epoch 317  Cost: -12.645035  LR: 4.04e-05
+Testing ==> Epoch 317 Cost: -5.233106
+test RMSE : 0.004661  Patience: 5/50
+Training ==> Epoch 318  Cost: -12.652705  LR: 4.04e-05
+Testing ==> Epoch 318 Cost: -5.328704
+test RMSE : 0.004460  Patience: 6/50
+Training ==> Epoch 319  Cost: -12.654263  LR: 4.04e-05
+Testing ==> Epoch 319 Cost: -5.114924
+test RMSE : 0.004911  Patience: 7/50
+Training ==> Epoch 320  Cost: -12.665988  LR: 4.04e-05
+Testing ==> Epoch 320 Cost: -5.160120
+test RMSE : 0.004795  Patience: 8/50
+Training ==> Epoch 321  Cost: -12.646019  LR: 4.04e-05
+Testing ==> Epoch 321 Cost: -4.925157
+test RMSE : 0.005134  Patience: 9/50
+Training ==> Epoch 322  Cost: -12.651083  LR: 4.04e-05
+Testing ==> Epoch 322 Cost: -5.091359
+test RMSE : 0.004690  Patience: 10/50
+Training ==> Epoch 323  Cost: -12.650568  LR: 4.04e-05
+Testing ==> Epoch 323 Cost: -5.076081
+test RMSE : 0.004678  Patience: 11/50
+Training ==> Epoch 324  Cost: -12.651062  LR: 4.04e-05
+Testing ==> Epoch 324 Cost: -5.241014
+test RMSE : 0.004738  Patience: 12/50
+Training ==> Epoch 325  Cost: -12.667518  LR: 4.04e-05
+Testing ==> Epoch 325 Cost: -4.998241
+test RMSE : 0.005264  Patience: 13/50
+Training ==> Epoch 326  Cost: -12.647458  LR: 4.04e-05
+Testing ==> Epoch 326 Cost: -4.853992
+test RMSE : 0.005424  Patience: 14/50
+Training ==> Epoch 327  Cost: -12.666458  LR: 4.04e-05
+Testing ==> Epoch 327 Cost: -4.760846
+test RMSE : 0.005816  Patience: 15/50
+Training ==> Epoch 328  Cost: -12.677696  LR: 2.82e-05
+Testing ==> Epoch 328 Cost: -4.469854
+test RMSE : 0.005270  Patience: 16/50
+Training ==> Epoch 329  Cost: -12.674710  LR: 2.82e-05
+Testing ==> Epoch 329 Cost: -4.679471
+test RMSE : 0.005376  Patience: 17/50
+Training ==> Epoch 330  Cost: -12.667752  LR: 2.82e-05
+Testing ==> Epoch 330 Cost: -4.705777
+test RMSE : 0.005362  Patience: 18/50
+Training ==> Epoch 331  Cost: -12.682048  LR: 2.82e-05
+Testing ==> Epoch 331 Cost: -4.924513
+test RMSE : 0.004980  Patience: 19/50
+Training ==> Epoch 332  Cost: -12.675920  LR: 2.82e-05
+Testing ==> Epoch 332 Cost: -4.875680
+test RMSE : 0.004894  Patience: 20/50
+Training ==> Epoch 333  Cost: -12.684443  LR: 2.82e-05
+Testing ==> Epoch 333 Cost: -4.943433
+test RMSE : 0.005012  Patience: 21/50
+Training ==> Epoch 334  Cost: -12.692116  LR: 2.82e-05
+Testing ==> Epoch 334 Cost: -5.068616
+test RMSE : 0.004795  Patience: 22/50
+Training ==> Epoch 335  Cost: -12.689559  LR: 2.82e-05
+Testing ==> Epoch 335 Cost: -4.974769
+test RMSE : 0.004812  Patience: 23/50
+Training ==> Epoch 336  Cost: -12.682724  LR: 2.82e-05
+Testing ==> Epoch 336 Cost: -4.963807
+test RMSE : 0.004893  Patience: 24/50
+Training ==> Epoch 337  Cost: -12.696426  LR: 2.82e-05
+Testing ==> Epoch 337 Cost: -4.900299
+test RMSE : 0.004756  Patience: 25/50
+Training ==> Epoch 338  Cost: -12.682494  LR: 2.82e-05
+Testing ==> Epoch 338 Cost: -4.734779
+test RMSE : 0.004859  Patience: 26/50
+Training ==> Epoch 339  Cost: -12.690720  LR: 2.82e-05
+Testing ==> Epoch 339 Cost: -4.900240
+test RMSE : 0.004784  Patience: 27/50
+Training ==> Epoch 340  Cost: -12.695011  LR: 2.82e-05
+Testing ==> Epoch 340 Cost: -4.824939
+test RMSE : 0.004880  Patience: 28/50
+Training ==> Epoch 341  Cost: -12.668757  LR: 2.82e-05
+Testing ==> Epoch 341 Cost: -4.828875
+test RMSE : 0.004940  Patience: 29/50
+Training ==> Epoch 342  Cost: -12.695557  LR: 2.82e-05
+Testing ==> Epoch 342 Cost: -4.942112
+test RMSE : 0.004807  Patience: 30/50
+Training ==> Epoch 343  Cost: -12.692837  LR: 2.82e-05
+Testing ==> Epoch 343 Cost: -4.866029
+test RMSE : 0.004920  Patience: 31/50
+Training ==> Epoch 344  Cost: -12.703204  LR: 1.98e-05
+Testing ==> Epoch 344 Cost: -4.933315
+test RMSE : 0.004878  Patience: 32/50
+Training ==> Epoch 345  Cost: -12.707110  LR: 1.98e-05
+Testing ==> Epoch 345 Cost: -4.896488
+test RMSE : 0.004771  Patience: 33/50
+Training ==> Epoch 346  Cost: -12.707544  LR: 1.98e-05
+Testing ==> Epoch 346 Cost: -4.954295
+test RMSE : 0.004774  Patience: 34/50
+Training ==> Epoch 347  Cost: -12.712557  LR: 1.98e-05
+Testing ==> Epoch 347 Cost: -4.937246
+test RMSE : 0.004862  Patience: 35/50
+Training ==> Epoch 348  Cost: -12.709693  LR: 1.98e-05
+Testing ==> Epoch 348 Cost: -4.946430
+test RMSE : 0.004779  Patience: 36/50
+Training ==> Epoch 349  Cost: -12.710199  LR: 1.98e-05
+Testing ==> Epoch 349 Cost: -4.874054
+test RMSE : 0.004870  Patience: 37/50
+Training ==> Epoch 350  Cost: -12.712951  LR: 1.98e-05
+Testing ==> Epoch 350 Cost: -4.805264
+test RMSE : 0.004995  Patience: 38/50
+Training ==> Epoch 351  Cost: -12.712933  LR: 1.98e-05
+Testing ==> Epoch 351 Cost: -4.736672
+test RMSE : 0.004989  Patience: 39/50
+Training ==> Epoch 352  Cost: -12.716349  LR: 1.98e-05
+Testing ==> Epoch 352 Cost: -4.772880
+test RMSE : 0.005122  Patience: 40/50
+Training ==> Epoch 353  Cost: -12.709378  LR: 1.98e-05
+Testing ==> Epoch 353 Cost: -4.718847
+test RMSE : 0.005080  Patience: 41/50
+Training ==> Epoch 354  Cost: -12.718991  LR: 1.98e-05
+Testing ==> Epoch 354 Cost: -4.619795
+test RMSE : 0.005156  Patience: 42/50
+Training ==> Epoch 355  Cost: -12.717078  LR: 1.98e-05
+Testing ==> Epoch 355 Cost: -4.509325
+test RMSE : 0.005141  Patience: 43/50
+Training ==> Epoch 356  Cost: -12.718690  LR: 1.98e-05
+Testing ==> Epoch 356 Cost: -4.583131
+test RMSE : 0.005082  Patience: 44/50
+Training ==> Epoch 357  Cost: -12.715332  LR: 1.98e-05
+Testing ==> Epoch 357 Cost: -4.325710
+test RMSE : 0.005401  Patience: 45/50
+Training ==> Epoch 358  Cost: -12.721991  LR: 1.98e-05
+Testing ==> Epoch 358 Cost: -4.569839
+test RMSE : 0.005107  Patience: 46/50
+Training ==> Epoch 359  Cost: -12.719040  LR: 1.98e-05
+Testing ==> Epoch 359 Cost: -4.501761
+test RMSE : 0.005087  Patience: 47/50
+Training ==> Epoch 360  Cost: -12.717281  LR: 1.38e-05
+Testing ==> Epoch 360 Cost: -4.579919
+test RMSE : 0.005136  Patience: 48/50
+Training ==> Epoch 361  Cost: -12.727535  LR: 1.38e-05
+Testing ==> Epoch 361 Cost: -4.582058
+test RMSE : 0.005125  Patience: 49/50
+Early stopping triggered after 50 epochs without improvement
+Training stopped early at epoch 361
+Learning Time: 3.3 min

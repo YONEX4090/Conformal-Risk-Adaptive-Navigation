@@ -1,0 +1,1646 @@
+Using device: cuda
+Training ==> Epoch  0  Cost: 24.711629
+Testing ==> Epoch  0 Cost: 26.766772
+test RMSE : 14.485339999958011
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  1  Cost: 6.477110
+Testing ==> Epoch  1 Cost: 23.154625
+test RMSE : 14.418863616685448
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  2  Cost: 4.026870
+Testing ==> Epoch  2 Cost: 35.479151
+test RMSE : 14.290909494433242
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  3  Cost: 2.799582
+Testing ==> Epoch  3 Cost: 44.128923
+test RMSE : 14.233095747404867
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  4  Cost: 2.259993
+Testing ==> Epoch  4 Cost: 63.443567
+test RMSE : 14.256612148054968
+Training ==> Epoch  5  Cost: 2.163146
+Testing ==> Epoch  5 Cost: 60.643147
+test RMSE : 14.206746871753653
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  6  Cost: 1.713589
+Testing ==> Epoch  6 Cost: 81.159447
+test RMSE : 14.20343711040197
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  7  Cost: 1.580810
+Testing ==> Epoch  7 Cost: 113.764662
+test RMSE : 14.19399470784272
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  8  Cost: 1.343547
+Testing ==> Epoch  8 Cost: 161.018983
+test RMSE : 14.169384990091542
+Best Model Saving...
+Saving...
+
+Training ==> Epoch  9  Cost: 1.230842
+Testing ==> Epoch  9 Cost: 290.833449
+test RMSE : 14.183657111858732
+Training ==> Epoch 10  Cost: 1.183926
+Testing ==> Epoch 10 Cost: 382.586740
+test RMSE : 14.133225401604848
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 11  Cost: 0.943154
+Testing ==> Epoch 11 Cost: 731.407641
+test RMSE : 14.145753369791677
+Training ==> Epoch 12  Cost: 0.761607
+Testing ==> Epoch 12 Cost: 960.181935
+test RMSE : 14.116558954980922
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 13  Cost: 0.564739
+Testing ==> Epoch 13 Cost: 3093.721318
+test RMSE : 14.159601496277727
+Training ==> Epoch 14  Cost: 0.455994
+Testing ==> Epoch 14 Cost: 4754.300086
+test RMSE : 14.141674471954133
+Training ==> Epoch 15  Cost: 0.308014
+Testing ==> Epoch 15 Cost: 8433.556507
+test RMSE : 14.098818682752958
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 16  Cost: 0.211799
+Testing ==> Epoch 16 Cost: 8450.717466
+test RMSE : 14.09972479890887
+Training ==> Epoch 17  Cost: 0.033638
+Testing ==> Epoch 17 Cost: 14006.564212
+test RMSE : 14.068469528249848
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 18  Cost: -0.039950
+Testing ==> Epoch 18 Cost: 13747.938356
+test RMSE : 14.091960673706154
+Training ==> Epoch 19  Cost: -0.055643
+Testing ==> Epoch 19 Cost: 11747.646404
+test RMSE : 14.078933510490353
+Training ==> Epoch 20  Cost: -0.239985
+Testing ==> Epoch 20 Cost: 20367.181507
+test RMSE : 14.083212011193542
+Training ==> Epoch 21  Cost: -0.382505
+Testing ==> Epoch 21 Cost: 33875.613014
+test RMSE : 14.055206441920374
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 22  Cost: -0.478261
+Testing ==> Epoch 22 Cost: 34955.226027
+test RMSE : 14.02643396388229
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 23  Cost: -0.615728
+Testing ==> Epoch 23 Cost: 31426.517123
+test RMSE : 14.044870037058965
+Training ==> Epoch 24  Cost: -0.770142
+Testing ==> Epoch 24 Cost: 63197.349315
+test RMSE : 14.067823383583985
+Training ==> Epoch 25  Cost: -0.799362
+Testing ==> Epoch 25 Cost: 48106.746575
+test RMSE : 14.002271613498467
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 26  Cost: -0.940545
+Testing ==> Epoch 26 Cost: 66040.493151
+test RMSE : 13.993635130488421
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 27  Cost: -0.906273
+Testing ==> Epoch 27 Cost: 37474.719178
+test RMSE : 14.002104420022453
+Training ==> Epoch 28  Cost: -1.092817
+Testing ==> Epoch 28 Cost: 59653.315068
+test RMSE : 13.94676691434304
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 29  Cost: -1.195027
+Testing ==> Epoch 29 Cost: 106109.589041
+test RMSE : 13.963844868301608
+Training ==> Epoch 30  Cost: -1.286742
+Testing ==> Epoch 30 Cost: 159836.876712
+test RMSE : 13.960993046368637
+Training ==> Epoch 31  Cost: -1.479522
+Testing ==> Epoch 31 Cost: 258997.671233
+test RMSE : 13.951076358871441
+Training ==> Epoch 32  Cost: -1.274681
+Testing ==> Epoch 32 Cost: 129847.575342
+test RMSE : 13.950850058642766
+Training ==> Epoch 33  Cost: -1.506027
+Testing ==> Epoch 33 Cost: 257373.808219
+test RMSE : 13.940545193774078
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 34  Cost: -1.659335
+Testing ==> Epoch 34 Cost: 341875.917808
+test RMSE : 13.948755648428099
+Training ==> Epoch 35  Cost: -1.685891
+Testing ==> Epoch 35 Cost: 450063.945205
+test RMSE : 13.95166222927434
+Training ==> Epoch 36  Cost: -1.756350
+Testing ==> Epoch 36 Cost: 570340.273973
+test RMSE : 13.939003485618656
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 37  Cost: -1.726834
+Testing ==> Epoch 37 Cost: 453902.164384
+test RMSE : 13.963427167650037
+Training ==> Epoch 38  Cost: -1.877363
+Testing ==> Epoch 38 Cost: 604991.397260
+test RMSE : 13.930799767026034
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 39  Cost: -1.933726
+Testing ==> Epoch 39 Cost: 635993.589041
+test RMSE : 13.942490679211417
+Training ==> Epoch 40  Cost: -2.025884
+Testing ==> Epoch 40 Cost: 881650.575342
+test RMSE : 13.909424179834145
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 41  Cost: -2.126552
+Testing ==> Epoch 41 Cost: 707307.945205
+test RMSE : 13.89449730395538
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 42  Cost: -2.074701
+Testing ==> Epoch 42 Cost: 600114.794521
+test RMSE : 13.89116514832655
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 43  Cost: -2.129674
+Testing ==> Epoch 43 Cost: 995642.082192
+test RMSE : 13.863231908584615
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 44  Cost: -2.296868
+Testing ==> Epoch 44 Cost: 1262112.986301
+test RMSE : 13.907869884104644
+Training ==> Epoch 45  Cost: -2.178076
+Testing ==> Epoch 45 Cost: 920043.945205
+test RMSE : 13.877276169278488
+Training ==> Epoch 46  Cost: -2.357928
+Testing ==> Epoch 46 Cost: 1142519.452055
+test RMSE : 13.884707513654222
+Training ==> Epoch 47  Cost: -2.429339
+Testing ==> Epoch 47 Cost: 954002.630137
+test RMSE : 13.85222497937717
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 48  Cost: -2.420782
+Testing ==> Epoch 48 Cost: 1907629.369863
+test RMSE : 13.851867170205878
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 49  Cost: -2.441378
+Testing ==> Epoch 49 Cost: 1349118.246575
+test RMSE : 13.843236388474763
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 50  Cost: -2.548802
+Testing ==> Epoch 50 Cost: 772769.205479
+test RMSE : 13.846115845803507
+Training ==> Epoch 51  Cost: -2.314038
+Testing ==> Epoch 51 Cost: 1429992.986301
+test RMSE : 13.843898330167967
+Training ==> Epoch 52  Cost: -2.701223
+Testing ==> Epoch 52 Cost: 2249500.273973
+test RMSE : 13.861587023865829
+Training ==> Epoch 53  Cost: -2.490680
+Testing ==> Epoch 53 Cost: 980421.479452
+test RMSE : 13.862599357945252
+Training ==> Epoch 54  Cost: -2.773776
+Testing ==> Epoch 54 Cost: 1126378.630137
+test RMSE : 13.852072392520803
+Training ==> Epoch 55  Cost: -2.958861
+Testing ==> Epoch 55 Cost: 2361288.547945
+test RMSE : 13.850208379416298
+Training ==> Epoch 56  Cost: -2.915145
+Testing ==> Epoch 56 Cost: 2852427.616438
+test RMSE : 13.8397396515099
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 57  Cost: -3.065132
+Testing ==> Epoch 57 Cost: 3544411.178082
+test RMSE : 13.857918744244715
+Training ==> Epoch 58  Cost: -2.846091
+Testing ==> Epoch 58 Cost: 2742568.767123
+test RMSE : 13.873261048161863
+Training ==> Epoch 59  Cost: -3.078665
+Testing ==> Epoch 59 Cost: 2764876.712329
+test RMSE : 13.839762850022504
+Training ==> Epoch 60  Cost: -3.175256
+Testing ==> Epoch 60 Cost: 2773576.547945
+test RMSE : 13.87167280467027
+Training ==> Epoch 61  Cost: -3.197281
+Testing ==> Epoch 61 Cost: 2145826.410959
+test RMSE : 13.846188790719756
+Training ==> Epoch 62  Cost: -3.244306
+Testing ==> Epoch 62 Cost: 1885424.657534
+test RMSE : 13.838962962195067
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 63  Cost: -3.342861
+Testing ==> Epoch 63 Cost: 3617293.369863
+test RMSE : 13.881703555405988
+Training ==> Epoch 64  Cost: -3.508605
+Testing ==> Epoch 64 Cost: 5118779.616438
+test RMSE : 13.845759328034813
+Training ==> Epoch 65  Cost: -3.482032
+Testing ==> Epoch 65 Cost: 4457910.356164
+test RMSE : 13.870681386255214
+Training ==> Epoch 66  Cost: -3.592188
+Testing ==> Epoch 66 Cost: 5351684.383562
+test RMSE : 13.843083219354693
+Training ==> Epoch 67  Cost: -3.517739
+Testing ==> Epoch 67 Cost: 5302272.876712
+test RMSE : 13.850421836122083
+Training ==> Epoch 68  Cost: -3.694277
+Testing ==> Epoch 68 Cost: 5627502.904110
+test RMSE : 13.877110361846338
+Training ==> Epoch 69  Cost: -3.589049
+Testing ==> Epoch 69 Cost: 2586760.767123
+test RMSE : 13.863084750257002
+Training ==> Epoch 70  Cost: -3.888615
+Testing ==> Epoch 70 Cost: 6756033.315068
+test RMSE : 13.8752926161604
+Training ==> Epoch 71  Cost: -3.767951
+Testing ==> Epoch 71 Cost: 5169092.383562
+test RMSE : 13.874479349727952
+Training ==> Epoch 72  Cost: -3.909254
+Testing ==> Epoch 72 Cost: 6304760.109589
+test RMSE : 13.841635035110754
+Training ==> Epoch 73  Cost: -3.894805
+Testing ==> Epoch 73 Cost: 5017180.493151
+test RMSE : 13.831042785775484
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 74  Cost: -4.004664
+Testing ==> Epoch 74 Cost: 5137185.315068
+test RMSE : 13.816622823458676
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 75  Cost: -4.018930
+Testing ==> Epoch 75 Cost: 6997994.958904
+test RMSE : 13.813065599279545
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 76  Cost: -4.020084
+Testing ==> Epoch 76 Cost: 7634965.041096
+test RMSE : 13.842445882326468
+Training ==> Epoch 77  Cost: -4.180476
+Testing ==> Epoch 77 Cost: 7532417.753425
+test RMSE : 13.850984921058517
+Training ==> Epoch 78  Cost: -4.034913
+Testing ==> Epoch 78 Cost: 5756903.890411
+test RMSE : 13.85727243572402
+Training ==> Epoch 79  Cost: -4.004906
+Testing ==> Epoch 79 Cost: 3439760.219178
+test RMSE : 13.801851951623034
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 80  Cost: -4.130944
+Testing ==> Epoch 80 Cost: 3988490.958904
+test RMSE : 13.84407902991903
+Training ==> Epoch 81  Cost: -4.321415
+Testing ==> Epoch 81 Cost: 8039733.479452
+test RMSE : 13.888751592738439
+Training ==> Epoch 82  Cost: -4.260555
+Testing ==> Epoch 82 Cost: 6434445.150685
+test RMSE : 13.82988014652674
+Training ==> Epoch 83  Cost: -4.450063
+Testing ==> Epoch 83 Cost: 9657364.164384
+test RMSE : 13.828002016518353
+Training ==> Epoch 84  Cost: -4.053736
+Testing ==> Epoch 84 Cost: 6802974.684932
+test RMSE : 13.88153828270405
+Training ==> Epoch 85  Cost: -4.217703
+Testing ==> Epoch 85 Cost: 6719735.232877
+test RMSE : 13.828747881838472
+Training ==> Epoch 86  Cost: -4.305480
+Testing ==> Epoch 86 Cost: 2308015.123288
+test RMSE : 13.830069251329704
+Training ==> Epoch 87  Cost: -4.537538
+Testing ==> Epoch 87 Cost: 8131021.150685
+test RMSE : 13.89013804195215
+Training ==> Epoch 88  Cost: -4.479781
+Testing ==> Epoch 88 Cost: 6203062.356164
+test RMSE : 13.877160007884099
+Training ==> Epoch 89  Cost: -4.592513
+Testing ==> Epoch 89 Cost: 10374942.684932
+test RMSE : 13.84011275620441
+Training ==> Epoch 90  Cost: -4.422764
+Testing ==> Epoch 90 Cost: 5943139.945205
+test RMSE : 13.83013067356104
+Training ==> Epoch 91  Cost: -4.336395
+Testing ==> Epoch 91 Cost: 3755191.232877
+test RMSE : 13.81685471086048
+Training ==> Epoch 92  Cost: -4.691900
+Testing ==> Epoch 92 Cost: 7629222.575342
+test RMSE : 13.853908151963761
+Training ==> Epoch 93  Cost: -4.772428
+Testing ==> Epoch 93 Cost: 10445208.547945
+test RMSE : 13.853741099224763
+Training ==> Epoch 94  Cost: -4.807409
+Testing ==> Epoch 94 Cost: 10793210.739726
+test RMSE : 13.847949979797713
+Training ==> Epoch 95  Cost: -4.372954
+Testing ==> Epoch 95 Cost: 4854959.342466
+test RMSE : 13.80982568017355
+Training ==> Epoch 96  Cost: -4.782169
+Testing ==> Epoch 96 Cost: 9253536.438356
+test RMSE : 13.804711938456634
+Training ==> Epoch 97  Cost: -4.916055
+Testing ==> Epoch 97 Cost: 8688412.054795
+test RMSE : 13.826993438145815
+Training ==> Epoch 98  Cost: -4.869590
+Testing ==> Epoch 98 Cost: 8151369.643836
+test RMSE : 13.838866779215584
+Training ==> Epoch 99  Cost: -4.877345
+Testing ==> Epoch 99 Cost: 7701091.945205
+test RMSE : 13.840663695521767
+Training ==> Epoch 100  Cost: -4.967932
+Testing ==> Epoch 100 Cost: 9430198.356164
+test RMSE : 13.784791658105066
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 101  Cost: -4.835621
+Testing ==> Epoch 101 Cost: 9177881.424658
+test RMSE : 13.860035085090207
+Training ==> Epoch 102  Cost: -5.083127
+Testing ==> Epoch 102 Cost: 11141949.369863
+test RMSE : 13.781779510996612
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 103  Cost: -4.727135
+Testing ==> Epoch 103 Cost: 4461682.410959
+test RMSE : 13.834499174221706
+Training ==> Epoch 104  Cost: -5.121819
+Testing ==> Epoch 104 Cost: 6180108.712329
+test RMSE : 13.843322394367023
+Training ==> Epoch 105  Cost: -5.222621
+Testing ==> Epoch 105 Cost: 9679007.561644
+test RMSE : 13.821989124131257
+Training ==> Epoch 106  Cost: -5.289152
+Testing ==> Epoch 106 Cost: 10442852.821918
+test RMSE : 13.792398924279727
+Training ==> Epoch 107  Cost: -5.208999
+Testing ==> Epoch 107 Cost: 7276536.986301
+test RMSE : 13.800936456184305
+Training ==> Epoch 108  Cost: -5.359769
+Testing ==> Epoch 108 Cost: 13860434.410959
+test RMSE : 13.863307658327866
+Training ==> Epoch 109  Cost: -5.283509
+Testing ==> Epoch 109 Cost: 14156562.410959
+test RMSE : 13.78631810484012
+Training ==> Epoch 110  Cost: -5.259060
+Testing ==> Epoch 110 Cost: 12193343.123288
+test RMSE : 13.83305105838564
+Training ==> Epoch 111  Cost: -5.362508
+Testing ==> Epoch 111 Cost: 11666702.027397
+test RMSE : 13.860475204782745
+Training ==> Epoch 112  Cost: -5.458424
+Testing ==> Epoch 112 Cost: 15746219.835616
+test RMSE : 13.786535461765853
+Training ==> Epoch 113  Cost: -5.367600
+Testing ==> Epoch 113 Cost: 13773061.260274
+test RMSE : 13.780263725463382
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 114  Cost: -5.271065
+Testing ==> Epoch 114 Cost: 12771704.109589
+test RMSE : 13.806592267720845
+Training ==> Epoch 115  Cost: -5.370923
+Testing ==> Epoch 115 Cost: 11072261.260274
+test RMSE : 13.796456486345445
+Training ==> Epoch 116  Cost: -5.575831
+Testing ==> Epoch 116 Cost: 12951640.547945
+test RMSE : 13.78574073386467
+Training ==> Epoch 117  Cost: -5.406809
+Testing ==> Epoch 117 Cost: 8800150.794521
+test RMSE : 13.809429960839148
+Training ==> Epoch 118  Cost: -5.728120
+Testing ==> Epoch 118 Cost: 17311766.794521
+test RMSE : 13.803418669788252
+Training ==> Epoch 119  Cost: -5.215854
+Testing ==> Epoch 119 Cost: 7184616.767123
+test RMSE : 13.80526816662383
+Training ==> Epoch 120  Cost: -5.733013
+Testing ==> Epoch 120 Cost: 6812220.493151
+test RMSE : 13.772453063959688
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 121  Cost: -5.771245
+Testing ==> Epoch 121 Cost: 14591524.821918
+test RMSE : 13.79111274607052
+Training ==> Epoch 122  Cost: -5.818351
+Testing ==> Epoch 122 Cost: 18916536.109589
+test RMSE : 13.805912064797626
+Training ==> Epoch 123  Cost: -5.794614
+Testing ==> Epoch 123 Cost: 17845065.643836
+test RMSE : 13.833023980318567
+Training ==> Epoch 124  Cost: -5.837491
+Testing ==> Epoch 124 Cost: 17712447.123288
+test RMSE : 13.781251456061801
+Training ==> Epoch 125  Cost: -5.822980
+Testing ==> Epoch 125 Cost: 17191367.890411
+test RMSE : 13.822389806915266
+Training ==> Epoch 126  Cost: -5.679114
+Testing ==> Epoch 126 Cost: 20018668.712329
+test RMSE : 13.780885979723152
+Training ==> Epoch 127  Cost: -5.842982
+Testing ==> Epoch 127 Cost: 13276829.808219
+test RMSE : 13.77052532874557
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 128  Cost: -5.846088
+Testing ==> Epoch 128 Cost: 12344394.520548
+test RMSE : 13.80646291547192
+Training ==> Epoch 129  Cost: -6.168970
+Testing ==> Epoch 129 Cost: 17696466.410959
+test RMSE : 13.78315197091814
+Training ==> Epoch 130  Cost: -5.739720
+Testing ==> Epoch 130 Cost: 8929630.684932
+test RMSE : 13.809694905148616
+Training ==> Epoch 131  Cost: -5.989396
+Testing ==> Epoch 131 Cost: 9629781.917808
+test RMSE : 13.803317393353085
+Training ==> Epoch 132  Cost: -6.098348
+Testing ==> Epoch 132 Cost: 11156712.328767
+test RMSE : 13.804850997599527
+Training ==> Epoch 133  Cost: -6.220330
+Testing ==> Epoch 133 Cost: 16667714.630137
+test RMSE : 13.808397743578471
+Training ==> Epoch 134  Cost: -6.132279
+Testing ==> Epoch 134 Cost: 9708814.904110
+test RMSE : 13.799371395066247
+Training ==> Epoch 135  Cost: -6.358392
+Testing ==> Epoch 135 Cost: 19384207.780822
+test RMSE : 13.778423008588316
+Training ==> Epoch 136  Cost: -6.142293
+Testing ==> Epoch 136 Cost: 10598695.452055
+test RMSE : 13.775223498267678
+Training ==> Epoch 137  Cost: -5.953004
+Testing ==> Epoch 137 Cost: 16129374.684932
+test RMSE : 13.763292823486474
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 138  Cost: -6.249367
+Testing ==> Epoch 138 Cost: 14548657.972603
+test RMSE : 13.800925793624504
+Training ==> Epoch 139  Cost: -5.961490
+Testing ==> Epoch 139 Cost: 20149279.561644
+test RMSE : 13.732716020436206
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 140  Cost: -6.320577
+Testing ==> Epoch 140 Cost: 22459635.726027
+test RMSE : 13.79473042272982
+Training ==> Epoch 141  Cost: -6.422398
+Testing ==> Epoch 141 Cost: 18314922.082192
+test RMSE : 13.806517175738875
+Training ==> Epoch 142  Cost: -6.186130
+Testing ==> Epoch 142 Cost: 12934126.465753
+test RMSE : 13.813170193869128
+Training ==> Epoch 143  Cost: -6.549297
+Testing ==> Epoch 143 Cost: 23708978.849315
+test RMSE : 13.809003229975705
+Training ==> Epoch 144  Cost: -6.508366
+Testing ==> Epoch 144 Cost: 20507479.671233
+test RMSE : 13.792539562435035
+Training ==> Epoch 145  Cost: -6.319054
+Testing ==> Epoch 145 Cost: 21106819.506849
+test RMSE : 13.806961423654403
+Training ==> Epoch 146  Cost: -6.540219
+Testing ==> Epoch 146 Cost: 22259736.547945
+test RMSE : 13.810157455698999
+Training ==> Epoch 147  Cost: -6.495061
+Testing ==> Epoch 147 Cost: 14687755.397260
+test RMSE : 13.796670774679566
+Training ==> Epoch 148  Cost: -6.563894
+Testing ==> Epoch 148 Cost: 18602566.136986
+test RMSE : 13.775569217131942
+Training ==> Epoch 149  Cost: -6.521482
+Testing ==> Epoch 149 Cost: 13174247.452055
+test RMSE : 13.725935803333266
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 150  Cost: -6.192008
+Testing ==> Epoch 150 Cost: 10512865.315068
+test RMSE : 13.794179103535336
+Training ==> Epoch 151  Cost: -6.641509
+Testing ==> Epoch 151 Cost: 17810958.027397
+test RMSE : 13.781425211665375
+Training ==> Epoch 152  Cost: -6.557889
+Testing ==> Epoch 152 Cost: 17416991.561644
+test RMSE : 13.759578408025792
+Training ==> Epoch 153  Cost: -6.446132
+Testing ==> Epoch 153 Cost: 14382624.438356
+test RMSE : 13.773669598478394
+Training ==> Epoch 154  Cost: -6.668384
+Testing ==> Epoch 154 Cost: 24773626.739726
+test RMSE : 13.768673594015054
+Training ==> Epoch 155  Cost: -6.759356
+Testing ==> Epoch 155 Cost: 20204652.712329
+test RMSE : 13.738728061889923
+Training ==> Epoch 156  Cost: -6.677693
+Testing ==> Epoch 156 Cost: 19281725.369863
+test RMSE : 13.804452228431767
+Training ==> Epoch 157  Cost: -6.781782
+Testing ==> Epoch 157 Cost: 20410434.630137
+test RMSE : 13.764627279665675
+Training ==> Epoch 158  Cost: -6.776890
+Testing ==> Epoch 158 Cost: 24503709.808219
+test RMSE : 13.738793787312925
+Training ==> Epoch 159  Cost: -6.708216
+Testing ==> Epoch 159 Cost: 20803038.684932
+test RMSE : 13.824018549968132
+Training ==> Epoch 160  Cost: -6.851213
+Testing ==> Epoch 160 Cost: 18128119.232877
+test RMSE : 13.783718289193818
+Training ==> Epoch 161  Cost: -6.499437
+Testing ==> Epoch 161 Cost: 26907790.027397
+test RMSE : 13.801404146724813
+Training ==> Epoch 162  Cost: -6.414473
+Testing ==> Epoch 162 Cost: 12747283.287671
+test RMSE : 13.787166165589232
+Training ==> Epoch 163  Cost: -6.762919
+Testing ==> Epoch 163 Cost: 19958028.273973
+test RMSE : 13.715042541284609
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 164  Cost: -6.919399
+Testing ==> Epoch 164 Cost: 20701566.246575
+test RMSE : 13.76273246882906
+Training ==> Epoch 165  Cost: -6.913311
+Testing ==> Epoch 165 Cost: 23512120.109589
+test RMSE : 13.740255731553658
+Training ==> Epoch 166  Cost: -6.926696
+Testing ==> Epoch 166 Cost: 26287710.684932
+test RMSE : 13.754461060260383
+Training ==> Epoch 167  Cost: -6.886158
+Testing ==> Epoch 167 Cost: 20167785.205479
+test RMSE : 13.717156056963699
+Training ==> Epoch 168  Cost: -6.847895
+Testing ==> Epoch 168 Cost: 21295319.671233
+test RMSE : 13.78277489777387
+Training ==> Epoch 169  Cost: -6.926244
+Testing ==> Epoch 169 Cost: 18575735.232877
+test RMSE : 13.733391081880567
+Training ==> Epoch 170  Cost: -7.022176
+Testing ==> Epoch 170 Cost: 23678293.917808
+test RMSE : 13.784991571110307
+Training ==> Epoch 171  Cost: -7.033221
+Testing ==> Epoch 171 Cost: 27990086.136986
+test RMSE : 13.728059822796798
+Training ==> Epoch 172  Cost: -6.808304
+Testing ==> Epoch 172 Cost: 13754746.739726
+test RMSE : 13.766858049862666
+Training ==> Epoch 173  Cost: -6.918077
+Testing ==> Epoch 173 Cost: 21715862.794521
+test RMSE : 13.79760303564027
+Training ==> Epoch 174  Cost: -7.057492
+Testing ==> Epoch 174 Cost: 21130382.027397
+test RMSE : 13.749408455519545
+Training ==> Epoch 175  Cost: -7.287713
+Testing ==> Epoch 175 Cost: 27438253.589041
+test RMSE : 13.720191654365994
+Training ==> Epoch 176  Cost: -6.843437
+Testing ==> Epoch 176 Cost: 6956139.835616
+test RMSE : 13.745718511495145
+Training ==> Epoch 177  Cost: -6.514072
+Testing ==> Epoch 177 Cost: 15486919.890411
+test RMSE : 13.667181802105915
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 178  Cost: -7.164155
+Testing ==> Epoch 178 Cost: 24162695.013699
+test RMSE : 13.721698964571226
+Training ==> Epoch 179  Cost: -6.746945
+Testing ==> Epoch 179 Cost: 12956763.178082
+test RMSE : 13.73394289317454
+Training ==> Epoch 180  Cost: -7.274587
+Testing ==> Epoch 180 Cost: 25841325.589041
+test RMSE : 13.728830606123882
+Training ==> Epoch 181  Cost: -7.219653
+Testing ==> Epoch 181 Cost: 16482025.205479
+test RMSE : 13.733720320589686
+Training ==> Epoch 182  Cost: -7.231092
+Testing ==> Epoch 182 Cost: 19197071.780822
+test RMSE : 13.769318717695741
+Training ==> Epoch 183  Cost: -7.303791
+Testing ==> Epoch 183 Cost: 23569609.643836
+test RMSE : 13.730202025715137
+Training ==> Epoch 184  Cost: -7.188292
+Testing ==> Epoch 184 Cost: 25618672.219178
+test RMSE : 13.752465143279705
+Training ==> Epoch 185  Cost: -7.388646
+Testing ==> Epoch 185 Cost: 29062370.191781
+test RMSE : 13.739040133137603
+Training ==> Epoch 186  Cost: -6.724510
+Testing ==> Epoch 186 Cost: 15241512.328767
+test RMSE : 13.724157981725618
+Training ==> Epoch 187  Cost: -7.220711
+Testing ==> Epoch 187 Cost: 18175635.287671
+test RMSE : 13.7013973085352
+Training ==> Epoch 188  Cost: -7.323091
+Testing ==> Epoch 188 Cost: 17251384.109589
+test RMSE : 13.68072084184779
+Training ==> Epoch 189  Cost: -7.151625
+Testing ==> Epoch 189 Cost: 11549657.424658
+test RMSE : 13.703930742192734
+Training ==> Epoch 190  Cost: -7.214538
+Testing ==> Epoch 190 Cost: 18439715.068493
+test RMSE : 13.685384836882069
+Training ==> Epoch 191  Cost: -7.300600
+Testing ==> Epoch 191 Cost: 26742505.205479
+test RMSE : 13.701973840097857
+Training ==> Epoch 192  Cost: -6.974811
+Testing ==> Epoch 192 Cost: 17734622.684932
+test RMSE : 13.695579865610226
+Training ==> Epoch 193  Cost: -7.376199
+Testing ==> Epoch 193 Cost: 25264178.849315
+test RMSE : 13.716270019547729
+Training ==> Epoch 194  Cost: -7.431362
+Testing ==> Epoch 194 Cost: 25783436.273973
+test RMSE : 13.654596346698321
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 195  Cost: -7.472442
+Testing ==> Epoch 195 Cost: 30343799.232877
+test RMSE : 13.708378982346167
+Training ==> Epoch 196  Cost: -7.220660
+Testing ==> Epoch 196 Cost: 21903496.767123
+test RMSE : 13.671156169948336
+Training ==> Epoch 197  Cost: -7.162683
+Testing ==> Epoch 197 Cost: 17513464.986301
+test RMSE : 13.682880233072375
+Training ==> Epoch 198  Cost: -7.488911
+Testing ==> Epoch 198 Cost: 24908202.082192
+test RMSE : 13.685444464719362
+Training ==> Epoch 199  Cost: -7.483143
+Testing ==> Epoch 199 Cost: 25126840.109589
+test RMSE : 13.72357360904002
+Training ==> Epoch 200  Cost: -7.382275
+Testing ==> Epoch 200 Cost: 28794003.287671
+test RMSE : 13.689985680815179
+Training ==> Epoch 201  Cost: -7.087068
+Testing ==> Epoch 201 Cost: 25921059.068493
+test RMSE : 13.690435664415755
+Training ==> Epoch 202  Cost: -7.444497
+Testing ==> Epoch 202 Cost: 15254000.219178
+test RMSE : 13.683421860722309
+Training ==> Epoch 203  Cost: -7.488064
+Testing ==> Epoch 203 Cost: 23578299.616438
+test RMSE : 13.667802353292368
+Training ==> Epoch 204  Cost: -7.101418
+Testing ==> Epoch 204 Cost: 18753485.150685
+test RMSE : 13.692494846911774
+Training ==> Epoch 205  Cost: -7.408522
+Testing ==> Epoch 205 Cost: 20177073.095890
+test RMSE : 13.626677861060251
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 206  Cost: -7.335524
+Testing ==> Epoch 206 Cost: 13045387.397260
+test RMSE : 13.638805529338825
+Training ==> Epoch 207  Cost: -7.657354
+Testing ==> Epoch 207 Cost: 30851910.136986
+test RMSE : 13.698163205066473
+Training ==> Epoch 208  Cost: -7.389927
+Testing ==> Epoch 208 Cost: 16910819.945205
+test RMSE : 13.663974845668003
+Training ==> Epoch 209  Cost: -7.684365
+Testing ==> Epoch 209 Cost: 21952888.986301
+test RMSE : 13.68558278075148
+Training ==> Epoch 210  Cost: -7.670030
+Testing ==> Epoch 210 Cost: 25966492.054795
+test RMSE : 13.686627681435619
+Training ==> Epoch 211  Cost: -7.445200
+Testing ==> Epoch 211 Cost: 28949163.835616
+test RMSE : 13.679898452925848
+Training ==> Epoch 212  Cost: -7.620227
+Testing ==> Epoch 212 Cost: 24955022.027397
+test RMSE : 13.689909460629742
+Training ==> Epoch 213  Cost: -7.495910
+Testing ==> Epoch 213 Cost: 19769235.287671
+test RMSE : 13.681476203096302
+Training ==> Epoch 214  Cost: -7.720818
+Testing ==> Epoch 214 Cost: 22504062.246575
+test RMSE : 13.69124276406848
+Training ==> Epoch 215  Cost: -7.690662
+Testing ==> Epoch 215 Cost: 16900646.575342
+test RMSE : 13.678924919140874
+Training ==> Epoch 216  Cost: -7.827173
+Testing ==> Epoch 216 Cost: 26750860.273973
+test RMSE : 13.691960417441104
+Training ==> Epoch 217  Cost: -7.700581
+Testing ==> Epoch 217 Cost: 21734599.890411
+test RMSE : 13.64884226690614
+Training ==> Epoch 218  Cost: -7.349603
+Testing ==> Epoch 218 Cost: 22842725.698630
+test RMSE : 13.63015957353398
+Training ==> Epoch 219  Cost: -7.725307
+Testing ==> Epoch 219 Cost: 28705134.465753
+test RMSE : 13.630226313209736
+Training ==> Epoch 220  Cost: -7.380622
+Testing ==> Epoch 220 Cost: 18502724.383562
+test RMSE : 13.630892219871752
+Training ==> Epoch 221  Cost: -7.840902
+Testing ==> Epoch 221 Cost: 28248807.452055
+test RMSE : 13.64709214191047
+Training ==> Epoch 222  Cost: -7.683574
+Testing ==> Epoch 222 Cost: 24138026.082192
+test RMSE : 13.655603943057866
+Training ==> Epoch 223  Cost: -7.807888
+Testing ==> Epoch 223 Cost: 21736234.082192
+test RMSE : 13.667407905248854
+Training ==> Epoch 224  Cost: -7.702602
+Testing ==> Epoch 224 Cost: 16871034.739726
+test RMSE : 13.592231945626098
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 225  Cost: -7.653078
+Testing ==> Epoch 225 Cost: 12651927.671233
+test RMSE : 13.491670141473797
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 226  Cost: -7.668042
+Testing ==> Epoch 226 Cost: 15092732.493151
+test RMSE : 13.601154297465303
+Training ==> Epoch 227  Cost: -7.879637
+Testing ==> Epoch 227 Cost: 28843930.301370
+test RMSE : 13.63614031021724
+Training ==> Epoch 228  Cost: -7.790951
+Testing ==> Epoch 228 Cost: 14294094.027397
+test RMSE : 13.63522840513142
+Training ==> Epoch 229  Cost: -7.995319
+Testing ==> Epoch 229 Cost: 29589966.904110
+test RMSE : 13.634962523526768
+Training ==> Epoch 230  Cost: -7.714789
+Testing ==> Epoch 230 Cost: 22814008.109589
+test RMSE : 13.649674857510469
+Training ==> Epoch 231  Cost: -7.789569
+Testing ==> Epoch 231 Cost: 24320529.534247
+test RMSE : 13.644768260310196
+Training ==> Epoch 232  Cost: -7.959765
+Testing ==> Epoch 232 Cost: 16800117.479452
+test RMSE : 13.597165371612551
+Training ==> Epoch 233  Cost: -8.012156
+Testing ==> Epoch 233 Cost: 25592495.342466
+test RMSE : 13.605841142918566
+Training ==> Epoch 234  Cost: -7.790597
+Testing ==> Epoch 234 Cost: 20017388.712329
+test RMSE : 13.649705239491437
+Training ==> Epoch 235  Cost: -8.010845
+Testing ==> Epoch 235 Cost: 28266292.602740
+test RMSE : 13.613060013544457
+Training ==> Epoch 236  Cost: -7.967718
+Testing ==> Epoch 236 Cost: 33254954.082192
+test RMSE : 13.623347954229919
+Training ==> Epoch 237  Cost: -7.901529
+Testing ==> Epoch 237 Cost: 18024221.808219
+test RMSE : 13.623886548069075
+Training ==> Epoch 238  Cost: -8.166998
+Testing ==> Epoch 238 Cost: 32955577.863014
+test RMSE : 13.616654259525681
+Training ==> Epoch 239  Cost: -8.095751
+Testing ==> Epoch 239 Cost: 29504448.876712
+test RMSE : 13.62429207504863
+Training ==> Epoch 240  Cost: -8.038128
+Testing ==> Epoch 240 Cost: 26363991.671233
+test RMSE : 13.634310061454652
+Training ==> Epoch 241  Cost: -7.824764
+Testing ==> Epoch 241 Cost: 28977139.726027
+test RMSE : 13.618345918992855
+Training ==> Epoch 242  Cost: -7.688719
+Testing ==> Epoch 242 Cost: 8203329.753425
+test RMSE : 13.615730733041534
+Training ==> Epoch 243  Cost: -8.356522
+Testing ==> Epoch 243 Cost: 40323128.109589
+test RMSE : 13.640690094817142
+Training ==> Epoch 244  Cost: -8.015961
+Testing ==> Epoch 244 Cost: 24916506.301370
+test RMSE : 13.568308936061921
+Training ==> Epoch 245  Cost: -8.080671
+Testing ==> Epoch 245 Cost: 30811388.493151
+test RMSE : 13.581831789258485
+Training ==> Epoch 246  Cost: -7.555287
+Testing ==> Epoch 246 Cost: 19901669.698630
+test RMSE : 13.577297258886409
+Training ==> Epoch 247  Cost: -8.015021
+Testing ==> Epoch 247 Cost: 15936638.246575
+test RMSE : 13.57118906054747
+Training ==> Epoch 248  Cost: -8.104962
+Testing ==> Epoch 248 Cost: 26989739.835616
+test RMSE : 13.611290545286996
+Training ==> Epoch 249  Cost: -8.063170
+Testing ==> Epoch 249 Cost: 30813366.356164
+test RMSE : 13.589848479636787
+Training ==> Epoch 250  Cost: -7.922300
+Testing ==> Epoch 250 Cost: 32375085.589041
+test RMSE : 13.619748599183678
+Training ==> Epoch 251  Cost: -8.295833
+Testing ==> Epoch 251 Cost: 32337856.876712
+test RMSE : 13.604975388004904
+Training ==> Epoch 252  Cost: -7.713935
+Testing ==> Epoch 252 Cost: 17782065.095890
+test RMSE : 13.5814259794498
+Training ==> Epoch 253  Cost: -8.234960
+Testing ==> Epoch 253 Cost: 26296291.945205
+test RMSE : 13.598297243702323
+Training ==> Epoch 254  Cost: -8.020398
+Testing ==> Epoch 254 Cost: 24833024.000000
+test RMSE : 13.609492832676434
+Training ==> Epoch 255  Cost: -8.340102
+Testing ==> Epoch 255 Cost: 36557020.931507
+test RMSE : 13.614425899492566
+Training ==> Epoch 256  Cost: -8.086803
+Testing ==> Epoch 256 Cost: 28887706.301370
+test RMSE : 13.598207228640398
+Training ==> Epoch 257  Cost: -8.039696
+Testing ==> Epoch 257 Cost: 32388916.602740
+test RMSE : 13.54508639205194
+Training ==> Epoch 258  Cost: -8.140381
+Testing ==> Epoch 258 Cost: 30019306.958904
+test RMSE : 13.610603039171234
+Training ==> Epoch 259  Cost: -7.854741
+Testing ==> Epoch 259 Cost: 33012613.260274
+test RMSE : 13.5807896610168
+Training ==> Epoch 260  Cost: -8.300633
+Testing ==> Epoch 260 Cost: 28686321.972603
+test RMSE : 13.593395228404729
+Training ==> Epoch 261  Cost: -8.208032
+Testing ==> Epoch 261 Cost: 18936439.232877
+test RMSE : 13.585421496075394
+Training ==> Epoch 262  Cost: -8.154492
+Testing ==> Epoch 262 Cost: 23539170.191781
+test RMSE : 13.606985074152878
+Training ==> Epoch 263  Cost: -7.754919
+Testing ==> Epoch 263 Cost: 24751074.191781
+test RMSE : 13.617039371212728
+Training ==> Epoch 264  Cost: -8.442563
+Testing ==> Epoch 264 Cost: 41125596.931507
+test RMSE : 13.6029845818258
+Training ==> Epoch 265  Cost: -8.083155
+Testing ==> Epoch 265 Cost: 27326281.643836
+test RMSE : 13.578381034086844
+Training ==> Epoch 266  Cost: -8.204955
+Testing ==> Epoch 266 Cost: 35774670.904110
+test RMSE : 13.576553837602097
+Training ==> Epoch 267  Cost: -8.298119
+Testing ==> Epoch 267 Cost: 34863279.342466
+test RMSE : 13.580519758435114
+Training ==> Epoch 268  Cost: -8.385581
+Testing ==> Epoch 268 Cost: 34737881.424658
+test RMSE : 13.552661884540544
+Training ==> Epoch 269  Cost: -8.288466
+Testing ==> Epoch 269 Cost: 39259833.863014
+test RMSE : 13.545254288548383
+Training ==> Epoch 270  Cost: -8.248069
+Testing ==> Epoch 270 Cost: 32101232.219178
+test RMSE : 13.58667594632874
+Training ==> Epoch 271  Cost: -8.116093
+Testing ==> Epoch 271 Cost: 18815100.493151
+test RMSE : 13.637428842430783
+Training ==> Epoch 272  Cost: -8.375700
+Testing ==> Epoch 272 Cost: 17935014.575342
+test RMSE : 13.557940256795991
+Training ==> Epoch 273  Cost: -8.415065
+Testing ==> Epoch 273 Cost: 20409735.013699
+test RMSE : 13.613979790663059
+Training ==> Epoch 274  Cost: -8.455372
+Testing ==> Epoch 274 Cost: 19954787.945205
+test RMSE : 13.61012977496682
+Training ==> Epoch 275  Cost: -8.224774
+Testing ==> Epoch 275 Cost: 25850823.890411
+test RMSE : 13.598680415905742
+Training ==> Epoch 276  Cost: -8.067595
+Testing ==> Epoch 276 Cost: 25336349.808219
+test RMSE : 13.543714007070152
+Training ==> Epoch 277  Cost: -8.206108
+Testing ==> Epoch 277 Cost: 41457551.780822
+test RMSE : 13.52046455539396
+Training ==> Epoch 278  Cost: -8.345658
+Testing ==> Epoch 278 Cost: 46312977.534247
+test RMSE : 13.58228535601776
+Training ==> Epoch 279  Cost: -7.687296
+Testing ==> Epoch 279 Cost: 19561656.109589
+test RMSE : 13.583447028511204
+Training ==> Epoch 280  Cost: -8.245938
+Testing ==> Epoch 280 Cost: 23989288.328767
+test RMSE : 13.601112987829543
+Training ==> Epoch 281  Cost: -8.575068
+Testing ==> Epoch 281 Cost: 31069941.479452
+test RMSE : 13.598119180544332
+Training ==> Epoch 282  Cost: -8.077862
+Testing ==> Epoch 282 Cost: 42760602.301370
+test RMSE : 13.603590852247155
+Training ==> Epoch 283  Cost: -8.167014
+Testing ==> Epoch 283 Cost: 34777592.986301
+test RMSE : 13.586278158318617
+Training ==> Epoch 284  Cost: -8.021728
+Testing ==> Epoch 284 Cost: 23686016.000000
+test RMSE : 13.554993661666103
+Training ==> Epoch 285  Cost: -8.348988
+Testing ==> Epoch 285 Cost: 20885074.410959
+test RMSE : 13.5366172641593
+Training ==> Epoch 286  Cost: -8.465724
+Testing ==> Epoch 286 Cost: 38499433.205479
+test RMSE : 13.573266826593015
+Training ==> Epoch 287  Cost: -8.426901
+Testing ==> Epoch 287 Cost: 40286165.917808
+test RMSE : 13.56465947314681
+Training ==> Epoch 288  Cost: -8.508449
+Testing ==> Epoch 288 Cost: 42217643.835616
+test RMSE : 13.502611841458522
+Training ==> Epoch 289  Cost: -8.225913
+Testing ==> Epoch 289 Cost: 21859643.616438
+test RMSE : 13.56870823678132
+Training ==> Epoch 290  Cost: -8.495257
+Testing ==> Epoch 290 Cost: 38534901.479452
+test RMSE : 13.569336741887057
+Training ==> Epoch 291  Cost: -8.147165
+Testing ==> Epoch 291 Cost: 21014505.205479
+test RMSE : 13.614408212636649
+Training ==> Epoch 292  Cost: -8.581624
+Testing ==> Epoch 292 Cost: 41515961.863014
+test RMSE : 13.5138218618647
+Training ==> Epoch 293  Cost: -8.061270
+Testing ==> Epoch 293 Cost: 26012295.013699
+test RMSE : 13.496295391623036
+Training ==> Epoch 294  Cost: -8.054711
+Testing ==> Epoch 294 Cost: 18577856.876712
+test RMSE : 13.588329989394758
+Training ==> Epoch 295  Cost: -8.004525
+Testing ==> Epoch 295 Cost: 25702943.561644
+test RMSE : 13.558387716150936
+Training ==> Epoch 296  Cost: -8.464439
+Testing ==> Epoch 296 Cost: 47026039.232877
+test RMSE : 13.521909047677566
+Training ==> Epoch 297  Cost: -8.474579
+Testing ==> Epoch 297 Cost: 42612409.863014
+test RMSE : 13.541360529556783
+Training ==> Epoch 298  Cost: -8.673087
+Testing ==> Epoch 298 Cost: 53018104.986301
+test RMSE : 13.570566555900179
+Training ==> Epoch 299  Cost: -8.235991
+Testing ==> Epoch 299 Cost: 38563548.931507
+test RMSE : 13.557949630406902
+Training ==> Epoch 300  Cost: -8.677203
+Testing ==> Epoch 300 Cost: 47536632.986301
+test RMSE : 13.578985940082525
+Training ==> Epoch 301  Cost: -8.466823
+Testing ==> Epoch 301 Cost: 44758633.205479
+test RMSE : 13.53050256564546
+Training ==> Epoch 302  Cost: -8.403344
+Testing ==> Epoch 302 Cost: 28623437.150685
+test RMSE : 13.550727562229028
+Training ==> Epoch 303  Cost: -8.534237
+Testing ==> Epoch 303 Cost: 33418103.232877
+test RMSE : 13.52934524620818
+Training ==> Epoch 304  Cost: -8.683890
+Testing ==> Epoch 304 Cost: 30089815.671233
+test RMSE : 13.553611916239428
+Training ==> Epoch 305  Cost: -8.435702
+Testing ==> Epoch 305 Cost: 36985550.904110
+test RMSE : 13.560218346993926
+Training ==> Epoch 306  Cost: -8.608244
+Testing ==> Epoch 306 Cost: 25991201.315068
+test RMSE : 13.571952982098326
+Training ==> Epoch 307  Cost: -8.315483
+Testing ==> Epoch 307 Cost: 22515434.958904
+test RMSE : 13.607592149432913
+Training ==> Epoch 308  Cost: -8.664049
+Testing ==> Epoch 308 Cost: 29040687.342466
+test RMSE : 13.564105213225279
+Training ==> Epoch 309  Cost: -8.186109
+Testing ==> Epoch 309 Cost: 28623924.602740
+test RMSE : 13.58409011604465
+Training ==> Epoch 310  Cost: -8.502370
+Testing ==> Epoch 310 Cost: 27195363.945205
+test RMSE : 13.558287569419248
+Training ==> Epoch 311  Cost: -7.892108
+Testing ==> Epoch 311 Cost: 20811469.150685
+test RMSE : 13.516819989337131
+Training ==> Epoch 312  Cost: -8.657858
+Testing ==> Epoch 312 Cost: 47617820.054795
+test RMSE : 13.530446704144643
+Training ==> Epoch 313  Cost: -8.640616
+Testing ==> Epoch 313 Cost: 34248451.506849
+test RMSE : 13.521689415648233
+Training ==> Epoch 314  Cost: -8.703032
+Testing ==> Epoch 314 Cost: 43219122.849315
+test RMSE : 13.536080633512496
+Training ==> Epoch 315  Cost: -8.501020
+Testing ==> Epoch 315 Cost: 26766644.602740
+test RMSE : 13.519023372146519
+Training ==> Epoch 316  Cost: -8.931017
+Testing ==> Epoch 316 Cost: 43424680.328767
+test RMSE : 13.540022347041766
+Training ==> Epoch 317  Cost: -8.639366
+Testing ==> Epoch 317 Cost: 44998999.671233
+test RMSE : 13.549241218866115
+Training ==> Epoch 318  Cost: -8.708394
+Testing ==> Epoch 318 Cost: 38400810.082192
+test RMSE : 13.540668978877962
+Training ==> Epoch 319  Cost: -8.723793
+Testing ==> Epoch 319 Cost: 40436935.890411
+test RMSE : 13.512148797756243
+Training ==> Epoch 320  Cost: -8.501535
+Testing ==> Epoch 320 Cost: 34067557.698630
+test RMSE : 13.50982002287646
+Training ==> Epoch 321  Cost: -8.831799
+Testing ==> Epoch 321 Cost: 41687660.712329
+test RMSE : 13.53521041649651
+Training ==> Epoch 322  Cost: -8.497389
+Testing ==> Epoch 322 Cost: 20019043.945205
+test RMSE : 13.521069084298142
+Training ==> Epoch 323  Cost: -8.750680
+Testing ==> Epoch 323 Cost: 52971625.205479
+test RMSE : 13.552632765634026
+Training ==> Epoch 324  Cost: -8.612155
+Testing ==> Epoch 324 Cost: 34631234.630137
+test RMSE : 13.550122381985368
+Training ==> Epoch 325  Cost: -8.776965
+Testing ==> Epoch 325 Cost: 53697318.575342
+test RMSE : 13.544704666684522
+Training ==> Epoch 326  Cost: -8.502856
+Testing ==> Epoch 326 Cost: 23014191.342466
+test RMSE : 13.521641927172826
+Training ==> Epoch 327  Cost: -8.366417
+Testing ==> Epoch 327 Cost: 35555412.164384
+test RMSE : 13.522548631442449
+Training ==> Epoch 328  Cost: -8.903704
+Testing ==> Epoch 328 Cost: 53579653.260274
+test RMSE : 13.545535263617712
+Training ==> Epoch 329  Cost: -8.836234
+Testing ==> Epoch 329 Cost: 40683937.315068
+test RMSE : 13.608526550035227
+Training ==> Epoch 330  Cost: -8.682186
+Testing ==> Epoch 330 Cost: 31639317.041096
+test RMSE : 13.551674274499195
+Training ==> Epoch 331  Cost: -8.753568
+Testing ==> Epoch 331 Cost: 32290202.301370
+test RMSE : 13.579275083511064
+Training ==> Epoch 332  Cost: -8.843275
+Testing ==> Epoch 332 Cost: 43315719.013699
+test RMSE : 13.537527906344959
+Training ==> Epoch 333  Cost: -8.803140
+Testing ==> Epoch 333 Cost: 59113521.095890
+test RMSE : 13.545219227981338
+Training ==> Epoch 334  Cost: -8.656848
+Testing ==> Epoch 334 Cost: 47283347.287671
+test RMSE : 13.511387435506503
+Training ==> Epoch 335  Cost: -8.870275
+Testing ==> Epoch 335 Cost: 48440604.054795
+test RMSE : 13.566507500058512
+Training ==> Epoch 336  Cost: -8.587335
+Testing ==> Epoch 336 Cost: 16974725.260274
+test RMSE : 13.5424699006597
+Training ==> Epoch 337  Cost: -9.003902
+Testing ==> Epoch 337 Cost: 49088722.410959
+test RMSE : 13.533419402006887
+Training ==> Epoch 338  Cost: -8.762975
+Testing ==> Epoch 338 Cost: 33382834.849315
+test RMSE : 13.590263389269762
+Training ==> Epoch 339  Cost: -8.734051
+Testing ==> Epoch 339 Cost: 44869091.945205
+test RMSE : 13.543055173369796
+Training ==> Epoch 340  Cost: -8.722219
+Testing ==> Epoch 340 Cost: 62470985.643836
+test RMSE : 13.549409063878329
+Training ==> Epoch 341  Cost: -8.499570
+Testing ==> Epoch 341 Cost: 48448722.410959
+test RMSE : 13.563096737392854
+Training ==> Epoch 342  Cost: -8.990621
+Testing ==> Epoch 342 Cost: 50900273.095890
+test RMSE : 13.58177810880249
+Training ==> Epoch 343  Cost: -8.684937
+Testing ==> Epoch 343 Cost: 54518805.041096
+test RMSE : 13.579557817468855
+Training ==> Epoch 344  Cost: -8.834977
+Testing ==> Epoch 344 Cost: 67619552.438356
+test RMSE : 13.549944673028126
+Training ==> Epoch 345  Cost: -8.874365
+Testing ==> Epoch 345 Cost: 32487385.424658
+test RMSE : 13.57083764219393
+Training ==> Epoch 346  Cost: -9.026900
+Testing ==> Epoch 346 Cost: 56419173.698630
+test RMSE : 13.535161987103194
+Training ==> Epoch 347  Cost: -8.698058
+Testing ==> Epoch 347 Cost: 61397798.575342
+test RMSE : 13.542376057112735
+Training ==> Epoch 348  Cost: -9.056400
+Testing ==> Epoch 348 Cost: 56848096.438356
+test RMSE : 13.568607673262745
+Training ==> Epoch 349  Cost: -8.531800
+Testing ==> Epoch 349 Cost: 58155537.534247
+test RMSE : 13.516601759186306
+Training ==> Epoch 350  Cost: -8.686052
+Testing ==> Epoch 350 Cost: 57211107.945205
+test RMSE : 13.535333960082363
+Training ==> Epoch 351  Cost: -8.962911
+Testing ==> Epoch 351 Cost: 56932295.890411
+test RMSE : 13.55533512847268
+Training ==> Epoch 352  Cost: -8.966014
+Testing ==> Epoch 352 Cost: 55053753.863014
+test RMSE : 13.552420047656302
+Training ==> Epoch 353  Cost: -7.870945
+Testing ==> Epoch 353 Cost: 15017424.657534
+test RMSE : 13.512052268506414
+Training ==> Epoch 354  Cost: -8.724051
+Testing ==> Epoch 354 Cost: 69445351.452055
+test RMSE : 13.484007305618738
+Best Model Saving...
+Saving...
+
+Training ==> Epoch 355  Cost: -8.803291
+Testing ==> Epoch 355 Cost: 44380451.068493
+test RMSE : 13.55100496860829
+Training ==> Epoch 356  Cost: -8.977678
+Testing ==> Epoch 356 Cost: 43982041.424658
+test RMSE : 13.553600072098318
+Training ==> Epoch 357  Cost: -8.971560
+Testing ==> Epoch 357 Cost: 59893893.260274
+test RMSE : 13.541848545494428
+Training ==> Epoch 358  Cost: -8.318388
+Testing ==> Epoch 358 Cost: 29508323.945205
+test RMSE : 13.51751028600281
+Training ==> Epoch 359  Cost: -9.085995
+Testing ==> Epoch 359 Cost: 37470965.479452
+test RMSE : 13.51888087812441
+Training ==> Epoch 360  Cost: -8.892661
+Testing ==> Epoch 360 Cost: 49270093.150685
+test RMSE : 13.569396386741515
+Training ==> Epoch 361  Cost: -8.541788
+Testing ==> Epoch 361 Cost: 28580352.000000
+test RMSE : 13.57692481434524
+Training ==> Epoch 362  Cost: -8.702484
+Testing ==> Epoch 362 Cost: 34815691.397260
+test RMSE : 13.521376285437709
+Training ==> Epoch 363  Cost: -8.456817
+Testing ==> Epoch 363 Cost: 35497240.547945
+test RMSE : 13.514374719468865
+Training ==> Epoch 364  Cost: -8.974879
+Testing ==> Epoch 364 Cost: 64376039.452055
+test RMSE : 13.553161338078771
+Training ==> Epoch 365  Cost: -9.090421
+Testing ==> Epoch 365 Cost: 69937053.808219
+test RMSE : 13.545325890832965
+Training ==> Epoch 366  Cost: -9.063970
+Testing ==> Epoch 366 Cost: 67497941.917808
+test RMSE : 13.55795752396896
+Training ==> Epoch 367  Cost: -8.765296
+Testing ==> Epoch 367 Cost: 49843996.054795
+test RMSE : 13.567870184684805
+Training ==> Epoch 368  Cost: -8.837075
+Testing ==> Epoch 368 Cost: 33633557.041096
+test RMSE : 13.547859874178531
+Training ==> Epoch 369  Cost: -8.998558
+Testing ==> Epoch 369 Cost: 28532315.178082
+test RMSE : 13.594661735288517
+Training ==> Epoch 370  Cost: -9.308929
+Testing ==> Epoch 370 Cost: 60813599.561644
+test RMSE : 13.551927970304769
+Training ==> Epoch 371  Cost: -9.114351
+Testing ==> Epoch 371 Cost: 61080842.520548
+test RMSE : 13.515146801461999
+Training ==> Epoch 372  Cost: -9.025196
+Testing ==> Epoch 372 Cost: 19128360.328767
+test RMSE : 13.5494520121209
+Training ==> Epoch 373  Cost: -8.974789
+Testing ==> Epoch 373 Cost: 45416055.232877
+test RMSE : 13.523851448649419
+Training ==> Epoch 374  Cost: -8.915951
+Testing ==> Epoch 374 Cost: 47377934.027397
+test RMSE : 13.552215716802927
+Training ==> Epoch 375  Cost: -8.898827
+Testing ==> Epoch 375 Cost: 68335370.520548
+test RMSE : 13.532073514122276
+Training ==> Epoch 376  Cost: -8.811184
+Testing ==> Epoch 376 Cost: 44956426.520548
+test RMSE : 13.537683050344151
+Training ==> Epoch 377  Cost: -9.063144
+Testing ==> Epoch 377 Cost: 43054869.041096
+test RMSE : 13.562096077723536
+Training ==> Epoch 378  Cost: -9.108795
+Testing ==> Epoch 378 Cost: 56625993.643836
+test RMSE : 13.576340509067629
+Training ==> Epoch 379  Cost: -8.890219
+Testing ==> Epoch 379 Cost: 41484677.260274
+test RMSE : 13.55571556763101
+Training ==> Epoch 380  Cost: -9.144261
+Testing ==> Epoch 380 Cost: 37124657.095890
+test RMSE : 13.57820763586784
+Training ==> Epoch 381  Cost: -9.085296
+Testing ==> Epoch 381 Cost: 54528469.917808
+test RMSE : 13.543906613566875
+Training ==> Epoch 382  Cost: -8.901111
+Testing ==> Epoch 382 Cost: 23270933.041096
+test RMSE : 13.569969654080706
+Training ==> Epoch 383  Cost: -9.041348
+Testing ==> Epoch 383 Cost: 50681396.602740
+test RMSE : 13.550029578709566
+Training ==> Epoch 384  Cost: -9.118807
+Testing ==> Epoch 384 Cost: 63986723.068493
+test RMSE : 13.601400185558305
+Training ==> Epoch 385  Cost: -9.101935
+Testing ==> Epoch 385 Cost: 53583118.027397
+test RMSE : 13.556978687224383
+Training ==> Epoch 386  Cost: -8.910413
+Testing ==> Epoch 386 Cost: 37647931.616438
+test RMSE : 13.573427475520662
+Training ==> Epoch 387  Cost: -9.254046
+Testing ==> Epoch 387 Cost: 68238307.945205
+test RMSE : 13.551679210260557
+Training ==> Epoch 388  Cost: -8.299911
+Testing ==> Epoch 388 Cost: 37861190.136986
+test RMSE : 13.510112131878278
+Training ==> Epoch 389  Cost: -8.744493
+Testing ==> Epoch 389 Cost: 27981999.342466
+test RMSE : 13.55767335283951
+Training ==> Epoch 390  Cost: -9.064975
+Testing ==> Epoch 390 Cost: 36898963.287671
+test RMSE : 13.57275283580866
+Training ==> Epoch 391  Cost: -9.295357
+Testing ==> Epoch 391 Cost: 52344523.397260
+test RMSE : 13.573708360181469
+Training ==> Epoch 392  Cost: -9.101196
+Testing ==> Epoch 392 Cost: 60105426.410959
+test RMSE : 13.547352819187012
+Training ==> Epoch 393  Cost: -9.049491
+Testing ==> Epoch 393 Cost: 53302850.630137
+test RMSE : 13.573773899099317
+Training ==> Epoch 394  Cost: -9.203006
+Testing ==> Epoch 394 Cost: 87705894.575342
+test RMSE : 13.579961220363456
+Training ==> Epoch 395  Cost: -9.026011
+Testing ==> Epoch 395 Cost: 32566482.410959
+test RMSE : 13.548821103558526
+Training ==> Epoch 396  Cost: -9.056915
+Testing ==> Epoch 396 Cost: 52171404.273973
+test RMSE : 13.498391127653056
+Training ==> Epoch 397  Cost: -9.209609
+Testing ==> Epoch 397 Cost: 73012672.876712
+test RMSE : 13.548381721086617
+Training ==> Epoch 398  Cost: -8.568137
+Testing ==> Epoch 398 Cost: 24320838.136986
+test RMSE : 13.575929115477102
+Training ==> Epoch 399  Cost: -9.030930
+Testing ==> Epoch 399 Cost: 42260876.273973
+test RMSE : 13.564016943762821
+Training ==> Epoch 400  Cost: -9.128225
+Testing ==> Epoch 400 Cost: 87396941.150685
+test RMSE : 13.58673502276272
+Training ==> Epoch 401  Cost: -9.027594
+Testing ==> Epoch 401 Cost: 64826627.506849
+test RMSE : 13.556259808979823
+Training ==> Epoch 402  Cost: -8.924681
+Testing ==> Epoch 402 Cost: 77177589.479452
+test RMSE : 13.569766573322182
+Training ==> Epoch 403  Cost: -8.690617
+Testing ==> Epoch 403 Cost: 45724973.589041
+test RMSE : 13.530761601803084
+Training ==> Epoch 404  Cost: -8.590164
+Testing ==> Epoch 404 Cost: 24270728.767123
+test RMSE : 13.541838172868971
+Training ==> Epoch 405  Cost: -8.899775
+Testing ==> Epoch 405 Cost: 73955945.205479
+test RMSE : 13.523925637196138
+Training ==> Epoch 406  Cost: -9.234620
+Testing ==> Epoch 406 Cost: 33012392.328767
+test RMSE : 13.563922756161018
+Training ==> Epoch 407  Cost: -9.245341
+Testing ==> Epoch 407 Cost: 66717562.739726
+test RMSE : 13.587773741429745
+Training ==> Epoch 408  Cost: -8.971772
+Testing ==> Epoch 408 Cost: 66887609.863014
+test RMSE : 13.57031764462525
+Training ==> Epoch 409  Cost: -9.196301
+Testing ==> Epoch 409 Cost: 70419189.479452
+test RMSE : 13.54533626078763
+Training ==> Epoch 410  Cost: -9.440836
+Testing ==> Epoch 410 Cost: 92280663.671233
+test RMSE : 13.554613202245942
+Training ==> Epoch 411  Cost: -9.042494
+Testing ==> Epoch 411 Cost: 62004560.657534
+test RMSE : 13.537453298247275
+Training ==> Epoch 412  Cost: -8.456476
+Testing ==> Epoch 412 Cost: 32546542.465753
+test RMSE : 13.555580860823156
+Training ==> Epoch 413  Cost: -9.043155
+Testing ==> Epoch 413 Cost: 67497598.246575
+test RMSE : 13.563820184625575
+Training ==> Epoch 414  Cost: -9.102967
+Testing ==> Epoch 414 Cost: 57452575.561644
+test RMSE : 13.55862796662438
+Training ==> Epoch 415  Cost: -9.074557
+Testing ==> Epoch 415 Cost: 48338112.876712
+test RMSE : 13.579299219566543
+Training ==> Epoch 416  Cost: -9.234316
+Testing ==> Epoch 416 Cost: 73041029.260274
+test RMSE : 13.57471506219161
+Training ==> Epoch 417  Cost: -9.333014
+Testing ==> Epoch 417 Cost: 97565492.602740
+test RMSE : 13.62521060302862
+Training ==> Epoch 418  Cost: -9.236547
+Testing ==> Epoch 418 Cost: 92809040.657534
+test RMSE : 13.588263043942366
+Training ==> Epoch 419  Cost: -8.965705
+Testing ==> Epoch 419 Cost: 91165169.972603
+test RMSE : 13.572123996064683
+Training ==> Epoch 420  Cost: -9.189069
+Testing ==> Epoch 420 Cost: 83210113.753425
+test RMSE : 13.574054283829224
+Training ==> Epoch 421  Cost: -9.301366
+Testing ==> Epoch 421 Cost: 39694690.191781
+test RMSE : 13.568684081886538
+Training ==> Epoch 422  Cost: -9.429428
+Testing ==> Epoch 422 Cost: 64779172.821918
+test RMSE : 13.5670473643547
+Training ==> Epoch 423  Cost: -9.248469
+Testing ==> Epoch 423 Cost: 28882805.479452
+test RMSE : 13.580509415346253
+Training ==> Epoch 424  Cost: -9.072131
+Testing ==> Epoch 424 Cost: 65687264.438356
+test RMSE : 13.557612669691146
+Training ==> Epoch 425  Cost: -9.067763
+Testing ==> Epoch 425 Cost: 45297116.931507
+test RMSE : 13.5699775406508
+Training ==> Epoch 426  Cost: -9.160932
+Testing ==> Epoch 426 Cost: 63637567.123288
+test RMSE : 13.579076575141684
+Training ==> Epoch 427  Cost: -9.224085
+Testing ==> Epoch 427 Cost: 62035848.767123
+test RMSE : 13.600374311019118
+Training ==> Epoch 428  Cost: -8.990528
+Testing ==> Epoch 428 Cost: 67455403.835616
+test RMSE : 13.59727753002769
+Training ==> Epoch 429  Cost: -9.335145
+Testing ==> Epoch 429 Cost: 85832521.643836
+test RMSE : 13.575705430376832
+Training ==> Epoch 430  Cost: -9.205639
+Testing ==> Epoch 430 Cost: 47920461.150685
+test RMSE : 13.553757993128746
+Training ==> Epoch 431  Cost: -9.202329
+Testing ==> Epoch 431 Cost: 43859150.904110
+test RMSE : 13.58768611799286
+Training ==> Epoch 432  Cost: -9.240351
+Testing ==> Epoch 432 Cost: 64512645.260274
+test RMSE : 13.565004641369523
+Training ==> Epoch 433  Cost: -8.474020
+Testing ==> Epoch 433 Cost: 32846321.972603
+test RMSE : 13.589806643442886
+Training ==> Epoch 434  Cost: -8.907646
+Testing ==> Epoch 434 Cost: 89175874.630137
+test RMSE : 13.541292857942139
+Training ==> Epoch 435  Cost: -9.341468
+Testing ==> Epoch 435 Cost: 120844512.438356
+test RMSE : 13.536465566860805
+Training ==> Epoch 436  Cost: -9.042798
+Testing ==> Epoch 436 Cost: 74907648.000000
+test RMSE : 13.570326023890944
+Training ==> Epoch 437  Cost: -9.124726
+Testing ==> Epoch 437 Cost: 92342131.726027
+test RMSE : 13.608981193089726
+Training ==> Epoch 438  Cost: -9.421270
+Testing ==> Epoch 438 Cost: 104364999.890411
+test RMSE : 13.578469210172758
+Training ==> Epoch 439  Cost: -9.094148
+Testing ==> Epoch 439 Cost: 61871398.575342
+test RMSE : 13.5720303575604
+Training ==> Epoch 440  Cost: -9.495107
+Testing ==> Epoch 440 Cost: 99365312.876712
+test RMSE : 13.531628150462799
+Training ==> Epoch 441  Cost: -9.238282
+Testing ==> Epoch 441 Cost: 96769599.123288
+test RMSE : 13.591249179505827
+Training ==> Epoch 442  Cost: -9.355763
+Testing ==> Epoch 442 Cost: 104100534.356164
+test RMSE : 13.611311184676364
+Training ==> Epoch 443  Cost: -9.110626
+Testing ==> Epoch 443 Cost: 111450869.479452
+test RMSE : 13.543048258903143
+Training ==> Epoch 444  Cost: -8.414645
+Testing ==> Epoch 444 Cost: 66827551.561644
+test RMSE : 13.58064387488704
+Training ==> Epoch 445  Cost: -9.313000
+Testing ==> Epoch 445 Cost: 46383549.369863
+test RMSE : 13.571680932385622
+Training ==> Epoch 446  Cost: -9.127946
+Testing ==> Epoch 446 Cost: 43442880.876712
+test RMSE : 13.562179427749784
+Training ==> Epoch 447  Cost: -9.642802
+Testing ==> Epoch 447 Cost: 119122018.191781
+test RMSE : 13.584112766352192
+Training ==> Epoch 448  Cost: -9.270524
+Testing ==> Epoch 448 Cost: 82215697.534247
+test RMSE : 13.600375294636754
+Training ==> Epoch 449  Cost: -9.492615
+Testing ==> Epoch 449 Cost: 97592474.301370
+test RMSE : 13.580741886680455
+Training ==> Epoch 450  Cost: -9.251717
+Testing ==> Epoch 450 Cost: 39066392.547945
+test RMSE : 13.538849537932965
+Training ==> Epoch 451  Cost: -8.808287
+Testing ==> Epoch 451 Cost: 102300517.698630
+test RMSE : 13.550475324808847
+Training ==> Epoch 452  Cost: -9.007378
+Testing ==> Epoch 452 Cost: 63226466.191781
+test RMSE : 13.58718497983927
+Training ==> Epoch 453  Cost: -9.332517
+Testing ==> Epoch 453 Cost: 122462825.205479
+test RMSE : 13.59677084211718
+Training ==> Epoch 454  Cost: -9.293172
+Testing ==> Epoch 454 Cost: 87405771.397260
+test RMSE : 13.579362761221757
+Training ==> Epoch 455  Cost: -9.157309
+Testing ==> Epoch 455 Cost: 61049259.835616
+test RMSE : 13.580366088875392
+Training ==> Epoch 456  Cost: -9.408075
+Testing ==> Epoch 456 Cost: 80385704.328767
+test RMSE : 13.604674007808232
+Training ==> Epoch 457  Cost: -9.404654
+Testing ==> Epoch 457 Cost: 92320319.123288
+test RMSE : 13.624026961924532
+Training ==> Epoch 458  Cost: -9.202879
+Testing ==> Epoch 458 Cost: 60441908.602740
+test RMSE : 13.563212136470627
+Training ==> Epoch 459  Cost: -9.215719
+Testing ==> Epoch 459 Cost: 109078499.945205
+test RMSE : 13.56604502387845
+Training ==> Epoch 460  Cost: -9.030494
+Testing ==> Epoch 460 Cost: 27714744.109589
+test RMSE : 13.577259325187482
+Training ==> Epoch 461  Cost: -9.601517
+Testing ==> Epoch 461 Cost: 69678213.260274
+test RMSE : 13.603116852373027
+Training ==> Epoch 462  Cost: -9.381467
+Testing ==> Epoch 462 Cost: 74074722.191781
+test RMSE : 13.566752537018022
+Training ==> Epoch 463  Cost: -9.200712
+Testing ==> Epoch 463 Cost: 116366756.821918
+test RMSE : 13.57964943382999
+Training ==> Epoch 464  Cost: -8.773987
+Testing ==> Epoch 464 Cost: 83051870.684932
+test RMSE : 13.603586427013504
+Training ==> Epoch 465  Cost: -9.216613
+Testing ==> Epoch 465 Cost: 90468373.041096
+test RMSE : 13.568365627620539
+Training ==> Epoch 466  Cost: -9.545009
+Testing ==> Epoch 466 Cost: 105460546.630137
+test RMSE : 13.593284022087413
+Training ==> Epoch 467  Cost: -9.354150
+Testing ==> Epoch 467 Cost: 96174669.150685
+test RMSE : 13.581388549779014
+Training ==> Epoch 468  Cost: -9.062626
+Testing ==> Epoch 468 Cost: 63450385.534247
+test RMSE : 13.553060659202428
+Training ==> Epoch 469  Cost: -9.457450
+Testing ==> Epoch 469 Cost: 82444056.547945
+test RMSE : 13.590789513874652
+Training ==> Epoch 470  Cost: -9.419790
+Testing ==> Epoch 470 Cost: 134704478.684932
+test RMSE : 13.595395802591021
+Training ==> Epoch 471  Cost: -9.278681
+Testing ==> Epoch 471 Cost: 81517406.684932
+test RMSE : 13.563790103403182
+Training ==> Epoch 472  Cost: -9.177432
+Testing ==> Epoch 472 Cost: 55503928.109589
+test RMSE : 13.599986760135327
+Training ==> Epoch 473  Cost: -9.596303
+Testing ==> Epoch 473 Cost: 87757557.479452
+test RMSE : 13.584877930640781
+Training ==> Epoch 474  Cost: -9.253271
+Testing ==> Epoch 474 Cost: 66003378.849315
+test RMSE : 13.569093230422231
+Training ==> Epoch 475  Cost: -9.399495
+Testing ==> Epoch 475 Cost: 92922529.315068
+test RMSE : 13.541423755285317
+Training ==> Epoch 476  Cost: -9.482848
+Testing ==> Epoch 476 Cost: 72060416.000000
+test RMSE : 13.541721603769842
+Training ==> Epoch 477  Cost: -9.295140
+Testing ==> Epoch 477 Cost: 35776199.890411
+test RMSE : 13.576481414664837
+Training ==> Epoch 478  Cost: -9.458273
+Testing ==> Epoch 478 Cost: 54240175.342466
+test RMSE : 13.585555414654843
+Training ==> Epoch 479  Cost: -8.280599
+Testing ==> Epoch 479 Cost: 71996423.013699
+test RMSE : 13.574082371259818
+Training ==> Epoch 480  Cost: -9.170419
+Testing ==> Epoch 480 Cost: 97291165.808219
+test RMSE : 13.574373590141315
+Training ==> Epoch 481  Cost: -9.272550
+Testing ==> Epoch 481 Cost: 70524913.972603
+test RMSE : 13.56411310320513
+Training ==> Epoch 482  Cost: -8.857789
+Testing ==> Epoch 482 Cost: 34182589.369863
+test RMSE : 13.59299222419481
+Training ==> Epoch 483  Cost: -9.474163
+Testing ==> Epoch 483 Cost: 79057141.479452
+test RMSE : 13.611579493890236
+Training ==> Epoch 484  Cost: -9.427099
+Testing ==> Epoch 484 Cost: 103319559.013699
+test RMSE : 13.60099200888877
+Training ==> Epoch 485  Cost: -9.379644
+Testing ==> Epoch 485 Cost: 133845749.479452
+test RMSE : 13.61145811656765
+Training ==> Epoch 486  Cost: -9.240280
+Testing ==> Epoch 486 Cost: 42027982.904110
+test RMSE : 13.636493479236023
+Training ==> Epoch 487  Cost: -9.591726
+Testing ==> Epoch 487 Cost: 107820901.698630
+test RMSE : 13.644050575884513
+Training ==> Epoch 488  Cost: -9.461519
+Testing ==> Epoch 488 Cost: 116091034.301370
+test RMSE : 13.609232346145387
+Training ==> Epoch 489  Cost: -9.184201
+Testing ==> Epoch 489 Cost: 69734855.890411
+test RMSE : 13.598163942496816
+Training ==> Epoch 490  Cost: -9.621938
+Testing ==> Epoch 490 Cost: 62808961.753425
+test RMSE : 13.631514423078954
+Training ==> Epoch 491  Cost: -9.510744
+Testing ==> Epoch 491 Cost: 121094031.780822
+test RMSE : 13.64080777957379
+Training ==> Epoch 492  Cost: -9.315747
+Testing ==> Epoch 492 Cost: 73827825.972603
+test RMSE : 13.607466804124215
+Training ==> Epoch 493  Cost: -9.336661
+Testing ==> Epoch 493 Cost: 57729553.534247
+test RMSE : 13.620450867277153
+Training ==> Epoch 494  Cost: -9.646356
+Testing ==> Epoch 494 Cost: 97222347.397260
+test RMSE : 13.644981009231728
+Training ==> Epoch 495  Cost: -9.487245
+Testing ==> Epoch 495 Cost: 76047598.465753
+test RMSE : 13.599649365475194
+Training ==> Epoch 496  Cost: -9.425396
+Testing ==> Epoch 496 Cost: 79653824.876712
+test RMSE : 13.59143815958117
+Training ==> Epoch 497  Cost: -9.116601
+Testing ==> Epoch 497 Cost: 32195229.808219
+test RMSE : 13.570646403698401
+Training ==> Epoch 498  Cost: -9.100740
+Testing ==> Epoch 498 Cost: 47680266.520548
+test RMSE : 13.565563302180985
+Training ==> Epoch 499  Cost: -9.333595
+Testing ==> Epoch 499 Cost: 153508709.698630
+test RMSE : 13.608130383811298
+Learning Time: 5.3 min
