@@ -1,0 +1,95 @@
+dt: 0.1
+mapsize:
+- -6
+- 6
+- -6
+- 6
+obstacles:
+- behavior:
+    factor: 2.5
+    mode: sfm
+    type: all_obj
+  color: k
+  distribution:
+    mode: x_left_right
+    name: random
+    range_high:
+    - 3.6
+    - 3
+    - 3.14
+    range_low:
+    - -3.6
+    - -3
+    - -3.14
+  kinematics: int
+  noise:
+  - - 0.025
+    - 0.025
+  - - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  number: 5
+  radius: 0.5
+  u_max:
+  - 0.9
+  - 0.9
+  u_min:
+  - 0.9
+  - 0.9
+- behavior:
+    factor: 0.5
+    mode: sfm
+    type: only_obs
+  color: k
+  distribution:
+    mode: whole_space
+    name: random
+    range_high:
+    - 3.6
+    - 6
+    - 3.14
+    range_low:
+    - -1.6
+    - -6
+    - -3.14
+  kinematics: int
+  noise:
+  - - 0.025
+    - 0.025
+  - - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  number: 8
+  radius: 0.5
+  u_max:
+  - 0.3
+  - 0.3
+  u_min:
+  - 0.3
+  - 0.3
+random_seed: 5
+robots:
+- noise:
+  - - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  - - 0.0
+    - 0.0
+    - 0.0
+    - 0.0
+  radius: 0.35
+  target:
+  - -6
+  - 0
+  - 0.001
+  - 0
+  type: doubleint # singleint doubleint
+  x0:
+  - 6
+  - 0
+  - 0
+  - 0
+
