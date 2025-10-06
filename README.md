@@ -12,7 +12,7 @@ short-term safety calibration, feeding uncertainty estimates into dynamic contro
 - [x] PENN and ACU modules
 - [x] Simulation environment
 
-### 📚 Documentation (In Progress)
+### 📚 Documentation (After accepting)
 - [ ] Installation guide
 - [ ] Quick start tutorial
 - [ ] Parameter configuration
